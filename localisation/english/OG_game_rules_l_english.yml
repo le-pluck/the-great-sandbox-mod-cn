@@ -1,0 +1,255 @@
+﻿l_english:
+
+ RULE_GROUP_WORLD_AT_WAR:0 "The Great Sandbox Options"
+
+
+ WORLD_AI_AGGRESSION_LEVEL:0 "AI Aggression Level"
+ WORLD_AI_OPTON_NONE:0 "None"
+ WORLD_AI_OPTON_NONE_DESC:0 "AIs will never justify war goals on each other without any casus belli."
+ WORLD_AI_OPTON_LOW:0 "Low"
+ WORLD_AI_OPTON_LOW_DESC:0 "AIs will seldom justify war goals on each other without any casus belli until world tension reaches 100%."
+ WORLD_AI_OPTON_NORMAL:0 "Normal"
+ WORLD_AI_OPTON_NORMAL_DESC:0 "AIs will sometimes justify war goals on each other without any casus belli until world tension reaches 100%."
+ WORLD_AI_OPTON_HIGH:0 "High"
+ WORLD_AI_OPTON_HIGH_DESC:0 "AIs will often justify war goals on each other without any casus belli until world tension reaches 100%."
+ WORLD_AI_OPTON_EXTREME:0 "Extreme"
+ WORLD_AI_OPTON_EXTREME_DESC:0 "AIs will frequently justify war goals on each other without any casus belli even when world tension reaches 100%."
+ 
+ 
+ WORLD_AT_WAR_PICK_STARTING_IDEOLOGY:0 "Player Nation Starting Ideology"
+ WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_DEFAULT:0 "Default"
+ WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_DEFAULT_DESC:0 "The ideology of the player's nation will be as previewed on the map."
+ 
+
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_DEMOCRATIC_SOCIALISM:0 "§4Socialism§!"
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_DEMOCRATIC_SOCIALISM_DESC:0 "Striving for equality and a socialist state by reformist means, democratic socialism aims to abolish or mitigate the effects of capitalism with public mandate."
+
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_DEMOCRATIC_LIBERALISM:0 "§4Liberalism§!"
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_DEMOCRATIC_LIBERALISM_DESC:0 "With a long philosophical tradition of valuing personal liberty, liberalism views safeguarding these rights as the primary function of the state."
+
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_DEMOCRATIC_CONSERVATISM:0 "§4Conservatism§!"
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_DEMOCRATIC_CONSERVATISM_DESC:0 "Considering rapid changes to society to be potentially harmful, conservatism espouses tradition and moderate reforms, sometimes advocating a return to old moral values."
+
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_DEMOCRATIC_CENTRISM:0 "§4Centrism§!"
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_DEMOCRATIC_CENTRISM_DESC:0 "Centrism is a form of government which wants to achieve common sense solutions that appropriately address current and future needs, that support the public trust and serve the common good with consideration of risk and capacity in context of these needs."
+
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_NEUTRALITY_DESPOTISM:0 "§7Despotism§!"
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_NEUTRALITY_DESPOTISM_DESC:0 "Despotism is a form of government in which a single person rules with absolute power."
+
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_NEUTRALITY_STRATOCRATISM:0 "§7Stratocratism§!"
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_NEUTRALITY_STRATOCRATISM_DESC:0 "Stratocracy is a form of government headed by military chiefs. The branches of government are administered by military forces, the government is legal under the laws of the jurisdiction at issue, and is usually carried out by military workers."
+
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_NEUTRALITY_THEOCRATISM:0 "§7Theocratism§!"
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_NEUTRALITY_THEOCRATISM_DESC:0 "Theocracy is a form of government in which one or more deities are recognized as supreme ruling authorities, giving divine guidance to human intermediaries who manage the government's daily affairs."
+
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_NEUTRALITY_CORPORATISM:0 "§7Corporatism§!"
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_NEUTRALITY_CORPORATISM_DESC:0 "Corporatism is a political ideology which advocates the organization of society by corporate groups, such as agricultural, labour, military, business, scientific, or guild associations, on the basis of their common interests. As originally conceived, corporatism was meant to be an alternative to both free market economies and socialist economies."
+ 
+
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_FASCISM_NAZISM:0 "§ONational Socialism§!"
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_FASCISM_NAZISM_DESC:0 "Rooted in extreme nationalism, National Socialism is driven by ideas of racial supremacy. It promotes aggressive expansionism and a totalitarian state where the people are united under a leader with absolute power."
+
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_FASCISM_FASCISM:0 "§OFascism§!"
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_FASCISM_FASCISM_DESC:0 "Encompassing a variety of nationalist movements, fascism typically venerates devotion to the state and uniting the people under a strong leader."
+
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_FASCISM_FALANGISM:0 "§OFalangism§!"
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_FASCISM_FALANGISM_DESC:0 "An authoritarian ideology with traits of fascism and conservatism, Falangism values national and religious identity."
+
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_FASCISM_ULTRANATIONALISM:0 "§OUltranationalism§!"
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_FASCISM_ULTRANATIONALISM_DESC:0 "Ultranationalism is an extreme form of nationalism in which a country asserts or maintains detrimental hegemony, supremacy, or other forms of control over other nations to pursue its specific interests."
+
+ 
+
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_COMMUNISM_MARXISM:0 "§tMarxism§!"
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_COMMUNISM_MARXISM_DESC:0 "Encompassing a broad spectrum of economic and historical views, Marxist politics seek to apply the theories of Karl Marx to political practice. Class struggle and the need for transition to a society based on common ownership of the means of production characterize these ideologies."
+
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_COMMUNISM_TOTALISM:0 "§tTotalism§!"
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_COMMUNISM_TOTALISM_DESC:0 "Identifying as a form of government applying and developing Marxist-Leninist policies, Totalism emphasizes rapid industrialization and collectivization as well as the need for a strong, authoritative socialist state to purge any counter-revolutionary elements."
+
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_COMMUNISM_ANARCHO_SYNDICALISM:0 "§tAnarcho-Syndicalism§!"
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_COMMUNISM_ANARCHO_SYNDICALISM_DESC:0 "An ideology embracing the idea of communism as a stateless society, Anarcho-Syndicalism eschews the idea of a transitionary socialist state and favors a society based on voluntary associations and mutual aid."
+
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_COMMUNISM_INTERNATIONALISM:0 "§tInternationalism§!"
+WORLD_AT_WAR_PICK_STARTING_IDEOLOGY_COMMUNISM_INTERNATIONALISM_DESC:0 "As opposed to socialism in one country, internationalism emphasizes the need for a permanent revolution and the establishment of a dictatorship of the proliteriat based on working-class self-emancipation and mass democracy."
+ 
+ 
+ 
+ WORLD_AT_WAR_AI_STARTING_IDEOLOGY:0 "AI Nations Starting Ideologies"
+ WORLD_AT_WAR_AI_STARTING_IDEOLOGY_DEFAULT:0 "Fixed"
+ WORLD_AT_WAR_AI_STARTING_IDEOLOGY_DEFAULT_DESC:0 "AI nations will have their ideologies and sub-ideologies equally distributed in a fixed starting seed (30% Democratic, 30% Non-Aligned, 20% Fascism, 20% Communism)."
+ WORLD_AT_WAR_AI_STARTING_IDEOLOGY_RANDOMIZED:0 "Randomized"
+ WORLD_AT_WAR_AI_STARTING_IDEOLOGY_RANDOMIZED_DESC:0 "AI nations will have their ideologies and sub-ideologies randomly distributed. Might result in unbalanced distributions. §ROBS!§! Unless player nation starting ideology is specified in the game rules, it will also be randomized."
+ 
+ 
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL:0 "Ammunition Production"
+ 
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_DEFAULT:0 "Default Ammunition Production"
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_DEFAULT_DESC:0 "Military factories will produce the default amount of ammunition."
+ 
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_PLUS_1:0 "§G+10%§! Extra Ammunition Production"
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_PLUS_1_DESC:0 "Military Factories will produce §G10%§! more ammunition."
+ 
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_PLUS_2:0 "§G+20%§! Extra Ammunition Production"
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_PLUS_2_DESC:0 "Military Factories will produce §G20%§! more ammunition."
+ 
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_PLUS_3:0 "§G+30%§! Extra Ammunition Production"
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_PLUS_3_DESC:0 "Military Factories will produce §G30%§! more ammunition."
+ 
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_PLUS_4:0 "§G+40%§! Extra Ammunition Production"
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_PLUS_4_DESC:0 "Military Factories will produce §G40%§! more ammunition."
+
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_PLUS_5:0 "§G+50%§! Extra Ammunition Production"
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_PLUS_5_DESC:0 "Military Factories will produce §G50%§! more ammunition."
+
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_MINUS_1:0 "§R-10%§! Less Ammunition Production"
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_MINUS_1_DESC:0 "Military Factories will produce §R10%§! less ammunition."
+ 
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_MINUS_2:0 "§R-20%§! Less Ammunition Production"
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_MINUS_2_DESC:0 "Military Factories will produce §R20%§! less ammunition."
+ 
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_MINUS_3:0 "§R-30%§! Less Ammunition Production"
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_MINUS_3_DESC:0 "Military Factories will produce §R30%§! less ammunition."
+ 
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_MINUS_4:0 "§R-40%§! Less Ammunition Production"
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_MINUS_4_DESC:0 "Military Factories will produce §R40%§! less ammunition."
+ 
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_MINUS_5:0 "§R-50%§! Less Ammunition Production"
+ WORLD_AT_WAR_AMMUNITION_PRODUCTION_LEVEL_MINUS_5_DESC:0 "Military Factories will produce §R50%§! less ammunition."
+ 
+ 
+ 
+ WORLD_AT_WAR_STARTING_DIVISIONS_LEVEL:0 "Starting Divisions"
+ 
+ WORLD_AT_WAR_STARTING_DIVISIONS_LEVEL_DEFAULT:0 "State Dependent Amount (High)"
+ WORLD_AT_WAR_STARTING_DIVISIONS_LEVEL_DEFAULT_DESC:0 "Nations will be assigned different amounts of starting divisions based on the state categories of their owned states.\n\n§YMegalopolis§!: 5\n§YMetropolis§!: 5\n§YLarge City§!: 4\n§YCity§!: 4\n§YLarge Town§!: 3\n§YTown§!: 3\n§YRural§!: 2\n§YPastoral§!: 2\n§YSmall Island§!: 1\n§YTiny Island§!: 1\n§YEnclave§!: 0\n§YWasteland§!: 0"
+
+ WORLD_AT_WAR_STARTING_DIVISIONS_LEVEL_DEFAULT_LOW:0 "State Dependent Amount (Low)"
+ WORLD_AT_WAR_STARTING_DIVISIONS_LEVEL_DEFAULT_LOW_DESC:0 "Nations will be assigned lesser amounts of starting divisions based on the state categories of their owned states.\n\n§YMegalopolis§!: 3\n§YMetropolis§!: 3\n§YLarge City§!: 3\n§YCity§!: 3\n§YLarge Town§!: 2\n§YTown§!: 2\n§YRural§!: 1\n§YPastoral§!: 1\n§YSmall Island§!: 0\n§YTiny Island§!: 0\n§YEnclave§!: 0\n§YWasteland§!: 0"
+
+ WORLD_AT_WAR_STARTING_DIVISIONS_LEVEL_FIXED_12:0 "Fixed Amount - 12"
+ WORLD_AT_WAR_STARTING_DIVISIONS_LEVEL_FIXED_12_DESC:0 "Nations will be assigned 12 starting divisions each, regardless of their owned states."
+
+ WORLD_AT_WAR_STARTING_DIVISIONS_LEVEL_FIXED_6:0 "Fixed Amount - 6"
+ WORLD_AT_WAR_STARTING_DIVISIONS_LEVEL_FIXED_6_DESC:0 "Nations will be assigned 6 starting divisions each, regardless of their owned states.\n§YSlight game performance increase during the first years.§!"
+
+ WORLD_AT_WAR_STARTING_DIVISIONS_LEVEL_NONE:0 "None"
+ WORLD_AT_WAR_STARTING_DIVISIONS_LEVEL_NONE_DESC:0 "Nations will be assigned no starting divisions.\n§YConsiderable game performance increase during the first years.§!"
+ 
+ 
+ 
+ WORLD_AT_WAR_STATE_INTEGRATION_LEVEL:0 "State Integration Difficulty"
+ 
+ WORLD_AT_WAR_STATE_INTEGRATION_LEVEL_MINIMAL:0 "Minimal State Integration"
+ WORLD_AT_WAR_STATE_INTEGRATION_LEVEL_MINIMAL_DESC:0 "State Integration will require the following:\n\n§YPeaceful Integration§!:\nCompliance > 50\nResistance < 30\n\n§YForceful Integration§!:\nCompliance > 20\nResistance < 50\n"
+ 
+ WORLD_AT_WAR_STATE_INTEGRATION_LEVEL_EASY:0 "Easy State Integration"
+ WORLD_AT_WAR_STATE_INTEGRATION_LEVEL_EASY_DESC:0 "State Integration will require the following:\n\n§YPeaceful Integration§!:\nCompliance > 55\nResistance < 25\n\n§YForceful Integration§!:\nCompliance > 25\nResistance < 45\n"
+ 
+ WORLD_AT_WAR_STATE_INTEGRATION_LEVEL_DEFAULT:0 "Default State Integration"
+ WORLD_AT_WAR_STATE_INTEGRATION_LEVEL_DEFAULT_DESC:0 "State Integration will require the following:\n\n§YPeaceful Integration§!:\nCompliance > 60\nResistance < 20\n\n§YForceful Integration§!:\nCompliance > 30\nResistance < 40\n"
+
+ WORLD_AT_WAR_STATE_INTEGRATION_LEVEL_HARD:0 "Hard State Integration"
+ WORLD_AT_WAR_STATE_INTEGRATION_LEVEL_HARD_DESC:0 "State Integration will require the following:\n\n§YPeaceful Integration§!:\nCompliance > 65\nResistance < 15\n\n§YForceful Integration§!:\nCompliance > 35\nResistance < 35\n"
+
+ WORLD_AT_WAR_STATE_INTEGRATION_LEVEL_EXTREME:0 "Extreme State Integration"
+ WORLD_AT_WAR_STATE_INTEGRATION_LEVEL_EXTREME_DESC:0 "State Integration will require the following:\n\n§YPeaceful Integration§!:\nCompliance > 70\nResistance < 10\n\n§YForceful Integration§!:\nCompliance > 40\nResistance < 30\n"
+
+ 
+
+
+ WORLD_AT_WAR_BORDER_AGGRESSION_LEVEL:0 "Border Aggression"
+ 
+ WORLD_AT_WAR_BORDER_AGGRESSION_OPTION_DEFAULT:0 "All Allowed"
+ WORLD_AT_WAR_BORDER_AGGRESSION_OPTION_DEFAULT_DESC:0 "Gunboat Diplomacy: §GAllowed§!\nBorder Skirmishes: §GAllowed§!"
+ 
+ WORLD_AT_WAR_BORDER_AGGRESSION_OPTION_ONLY_GUNBOAT:0 "Only Gunboat Diplomacy"
+ WORLD_AT_WAR_BORDER_AGGRESSION_OPTION_ONLY_GUNBOAT_DESC:0 "Gunboat Diplomacy: §GAllowed§!\nBorder Skirmishes: §RDisallowed§!"
+ 
+ WORLD_AT_WAR_BORDER_AGGRESSION_OPTION_ONLY_SKIRMISH:0 "Only Border Skirmishes"
+ WORLD_AT_WAR_BORDER_AGGRESSION_OPTION_ONLY_SKIRMISH_DESC:0 "Gunboat Diplomacy: §RDisallowed§!\nBorder Skirmishes: §GAllowed§!"
+ 
+ WORLD_AT_WAR_BORDER_AGGRESSION_OPTION_NONE:0 "None Allowed"
+ WORLD_AT_WAR_BORDER_AGGRESSION_OPTION_NONE_DESC:0 "Gunboat Diplomacy: §RDisallowed§!\nBorder Skirmishes: §RDisallowed§!"
+ 
+ 
+ WORLD_AT_WAR_DOCTRINE_PREFERENCE:0 "AI Doctrine Preference"
+ 
+ WORLD_AT_WAR_DOCTRINE_PREFERENCE_RANDOM_NO_STARTING:0 "Randomized preference without starting doctrine"
+ WORLD_AT_WAR_DOCTRINE_PREFERENCE_RANDOM_NO_STARTING_DESC:0 "All AI nations will have their (army/air/navy) doctrinal preferences randomized."
+ 
+ WORLD_AT_WAR_DOCTRINE_PREFERENCE_RANDOM_WITH_STARTING:0 "Randomized preference with starting doctrine"
+ WORLD_AT_WAR_DOCTRINE_PREFERENCE_RANDOM_WITH_STARTING_DESC:0 "All AI nations will have their (army/air/navy) doctrinal preferences randomized and start out with the first doctrine technology in each military branch accordingly."
+ 
+ WORLD_AT_WAR_DOCTRINE_PREFERENCE_FIXED_NO_STARTING:0 "Fixed preference without starting doctrine"
+ WORLD_AT_WAR_DOCTRINE_PREFERENCE_FIXED_NO_STARTING_DESC:0 "All AI nations will have their (army/air/navy) doctrinal preferences fixed.\n§YTAG last digit: Army/Air/Navy§!\n0: 1/2/2\n1: 2/1/3\n2: 3/3/1\n3: 4/2/2\n4: 1/1/1\n5: 2/2/2\n6: 3/3/3\n7: 4/3/1\n8: 1/2/3\n9: 2/3/1"
+ 
+ WORLD_AT_WAR_DOCTRINE_PREFERENCE_FIXED_WITH_STARTING:0 "Fixed preference with starting doctrine"
+ WORLD_AT_WAR_DOCTRINE_PREFERENCE_FIXED_WITH_STARTING_DESC:0 "All AI nations will have their (army/air/navy) doctrinal preferences fixed and start out with the first doctrine technology in each military branch accordingly.\n§YTAG last digit: Army/Air/Navy§!\n0: 1/2/2\n1: 2/1/3\n2: 3/3/1\n3: 4/2/2\n4: 1/1/1\n5: 2/2/2\n6: 3/3/3\n7: 4/3/1\n8: 1/2/3\n9: 2/3/1"
+ 
+ 
+ WORLD_AT_WAR_FORMABLES:0 "Formable Nations"
+ 
+ WORLD_AT_WAR_FORMABLES_OPTION_CLAIMS:0 "Claims"
+ WORLD_AT_WAR_FORMABLES_OPTION_CLAIMS_DESC:0 "When forming a greater nation, you will gain claims on all affiliated territories."
+ WORLD_AT_WAR_FORMABLES_OPTION_CORES:0 "Cores"
+ WORLD_AT_WAR_FORMABLES_OPTION_CORES_DESC:0 "When forming a greater nation, you will gain cores on all affiliated territories."
+ WORLD_AT_WAR_FORMABLES_OPTION_NONE:0 "None"
+ WORLD_AT_WAR_FORMABLES_OPTION_NONE_DESC:0 "When forming a greater nation, you will only gain a new flag and country name."
+ 
+ 
+ 
+ 
+ WORLD_AT_WAR_AI_MILITARY_ACADEMY_ACCESS:0 "Military Academy Access"
+ 
+ WORLD_AT_WAR_AI_MILITARY_ACADEMY_ACCESS_YES:0 "Allowed"
+ WORLD_AT_WAR_AI_MILITARY_ACADEMY_ACCESS_YES_DESC:0 "Player and AI will be allowed to train their military advisors in the military academy."
+ 
+ WORLD_AT_WAR_AI_MILITARY_ACADEMY_ACCESS_NO:0 "Player Only"
+ WORLD_AT_WAR_AI_MILITARY_ACADEMY_ACCESS_NO_DESC:0 "AI will be disallowed to train their military advisors in the military academy.\n§YPossible slight game performance increase (?)§!"
+ 
+ WORLD_AT_WAR_AI_MILITARY_ACADEMY_ACCESS_NONE:0 "Disallowed"
+ WORLD_AT_WAR_AI_MILITARY_ACADEMY_ACCESS_NONE_DESC:0 "Player and AI will be disallowed to train their military advisors in the military academy.\n§YPossible slight game performance increase (?)§!"
+ 
+ 
+ 
+
+ WORLD_AT_WAR_STARTING_TECH:0 "Starting Technologies"
+ WORLD_AT_WAR_STARTING_TECH_LOW:0 "Low Amount"
+ WORLD_AT_WAR_STARTING_TECH_LOW_DESC:0 "Nations will start with few early technologies unlocked."
+ WORLD_AT_WAR_STARTING_TECH_HIGH:0 "High Amount"
+ WORLD_AT_WAR_STARTING_TECH_HIGH_DESC:0 "Nations will start with many early technologies unlocked.\n\n§YAfflicted Technologies:§!\nInter-War Tank Development\nEarly Cruiser Hull\nBasic Torpedo\nInter-War Small Airframe\nInter-War Medium Airframe\nInter-War Large Airframe\nBombs\nLight MG\nEngines I"
+ 
+ WORLD_AT_WAR_STARTING_EXPERIENCE:0 "Starting Military Experience"
+ WORLD_AT_WAR_STARTING_EXPERIENCE_NONE:0 "None"
+ WORLD_AT_WAR_STARTING_EXPERIENCE_NONE_DESC:0 "Nations will begin with 0 experience points in each military branch."
+ WORLD_AT_WAR_STARTING_EXPERIENCE_LOW:0 "Low Amount - 10"
+ WORLD_AT_WAR_STARTING_EXPERIENCE_LOW_DESC:0 "Nations will begin with 10 experience points in each military branch."
+ WORLD_AT_WAR_STARTING_EXPERIENCE_MEDIUM:0 "Medium Amount - 30"
+ WORLD_AT_WAR_STARTING_EXPERIENCE_MEDIUM_DESC:0 "Nations will begin with 30 experience points in each military branch."
+ WORLD_AT_WAR_STARTING_EXPERIENCE_HIGH:0 "High Amount - 50"
+ WORLD_AT_WAR_STARTING_EXPERIENCE_HIGH_DESC:0 "Nations will begin with 50 experience points in each military branch."
+ WORLD_AT_WAR_STARTING_EXPERIENCE_VERY_HIGH:0 "Very High Amount - 100"
+ WORLD_AT_WAR_STARTING_EXPERIENCE_VERY_HIGH_DESC:0 "Nations will begin with 100 experience points in each military branch."
+ 
+ 
+ 
+ 
+ 
+ WORLD_AT_WAR_STARTING_DOMESTIC_FACTION_LOY_INF:0 "Domestic Faction Starting Loyalty & Influence"
+ WORLD_AT_WAR_STARTING_DOMESTIC_FACTION_LOY_INF_FIXED:0 "Fixed (5)"
+ WORLD_AT_WAR_STARTING_DOMESTIC_FACTION_LOY_INF_FIXED_DESC:0 "All domestic factions will start out with values of 5 in loyalty and influence."
+ WORLD_AT_WAR_STARTING_DOMESTIC_FACTION_LOY_INF_RANDOM:0 "Random (3-7)"
+ WORLD_AT_WAR_STARTING_DOMESTIC_FACTION_LOY_INF_RANDOM_DESC:0 "All domestic factions will start out with randomized loyalty and influence values between 3-7."
+ 
+ 
+ WORLD_AT_WAR_POLITICAL_MODE:0 "Political Overhaul Mode"
+ WORLD_AT_WAR_POLITICAL_MODE_CHALLENGE:0 "Challenge Mode"
+ WORLD_AT_WAR_POLITICAL_MODE_CHALLENGE_DESC:0 ""
+ 
+ WORLD_AT_WAR_POLITICAL_MODE_CASUAL:0 "Casual Mode"
+ WORLD_AT_WAR_POLITICAL_MODE_CASUAL_DESC:0 "-The requirement 'Has Appointed Members' for advisor recruitment will be bypassed.\n-Gain a start-up event where you can enable/disable elections.\n-Events related to domestic factions will have an ignore option."
+ 
+ 
+ 
+ 
+ 

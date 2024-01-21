@@ -1,0 +1,411 @@
+﻿l_english:
+
+
+
+
+
+ government_cabinet:0 "Government Cabinet"
+
+ head_of_government:0 "Head of Government"
+ minister_of_defence:0 "Minister of Defence"
+ minister_of_finance:0 "Minister of Finance"
+ minister_of_justice:0 "Minister of Justice"
+ minister_of_internal_affairs:0 "Minister of Internal Affairs"
+ minister_of_foreign_affairs:0 "Minister of Foreign Affairs"
+
+ world_at_war_outside_preferred_area_idea:0 "Outside Ruling Party's Preferred Area"
+
+ #Defence - 
+ #Finance - 
+ #Justice - different parliament seat cost reductions for passing laws
+ #Interior - different df approvals?
+ #Foregin - different diplomatic action positive/negative accept modifiers.
+
+
+
+ government_new:0 "Ministry Advisors"  # Was Government
+ economy_advisor:0 "Economical Advisor"
+ intelligence_advisor:0 "Intelligence Advisor"
+ ideology_advisor:0 "Ideological Advisor"
+
+
+ government:1 "Laws & Policies" #Vanilla: Laws & Government
+
+
+
+
+
+
+
+ theorist:0 "Research Theorist"
+
+ army_military_staff:0 "Army Military Staff"
+ army_theorist:0 "Army Theorist"
+ army_high_command:0 "Army High Command"
+
+ air_military_staff:0 "Airforce Military Staff"
+ air_theorist:0 "Airforce Theorist"
+ air_high_command:0 "Airforce High Command"
+
+ navy_military_staff:0 "Navy Military Staff"
+ navy_theorist:0 "Navy Theorist"
+ navy_high_command:0 "Navy High Command"
+ 
+ 
+#####################################################
+
+ #legislation_laws:0 "Legal System"
+ #legislation_hybrid:0 "Hybrid Law"
+ #legislation_civil:0 "Civil Law"
+ #legislation_common:0 "Common Law"
+ #legislation_customary:0 "Customary Law"
+ #legislation_religious:0 "Religious Law"
+
+ foreign_policy_laws:0 "Foreign Policy"
+ foreign_policy_relations:0 "Trade Relations"
+ foreign_policy_deterrence:0 "Deterrence"
+ foreign_policy_appeasement:0 "Appeasement"
+ foreign_policy_ideological_struggle:0 "Ideological Struggle"
+ foreign_policy_brinkmanship:0 "Brinkmanship"
+ foreign_policy_global_order:0 "Global Order"
+ foreign_policy_subject_guidance:0 "Subject Guidance"
+ foreign_policy_subject_guidance_tt:0 "Every §YSubject Country§!:"
+ 
+ laws_cultural:0 "Cultural Policy"
+ laws_cultural_norms:0 "Cultural Norms"
+ laws_cultural_hierarchy:0 "Stratification Hierarchy"
+ laws_cultural_ingenuity:0 "Radical Ingenuity"
+ laws_cultural_diversity:0 "Melting Pot"
+ laws_cultural_work_ethic:0 "Virtue of Diligence"
+ laws_cultural_surveillance:0 "Surveillance Society"
+ laws_cultural_patriarchy:0 "Enforced Patriarchy"
+ laws_cultural_religious_identity:0 "Religious Identity" 
+
+
+
+
+
+ laws_taxation:0 "Taxation Policy"
+
+ tax_policy_common_desc:0 "Tax policy refers to the guidelines and principles established by a government for the imposition and collection of taxes. It encompasses both microeconomic and macroeconomic aspects, with the former focusing on issues of fairness and efficiency in tax collection, and the latter focusing on the overall quantity of taxes to be collected and its impact on economic activity."
+
+ tax_policy_1:0 "Tax Haven"
+ tax_policy_1_desc:0 "$tax_policy_common_desc$"
+ tax_policy_2:0 "Miniscule Taxation"
+ tax_policy_2_desc:0 "$tax_policy_common_desc$"
+ tax_policy_3:0 "Low Taxation"
+ tax_policy_3_desc:0 "$tax_policy_common_desc$"
+ tax_policy_4:0 "Limited Taxation"          #Rightist
+ tax_policy_4_desc:0 "$tax_policy_common_desc$"
+ tax_policy_5:0 "Moderate Taxation"         #MIDDLE
+ tax_policy_5_desc:0 "$tax_policy_common_desc$"
+ tax_policy_6:0 "Ample Taxation"            #Lefist
+ tax_policy_6_desc:0 "$tax_policy_common_desc$"
+ tax_policy_7:0 "High Taxation"
+ tax_policy_7_desc:0 "$tax_policy_common_desc$"
+ tax_policy_8:0 "Extensive Taxation"
+ tax_policy_8_desc:0 "$tax_policy_common_desc$"
+ tax_policy_9:0 "Collectivized Society"
+ tax_policy_9_desc:0 "$tax_policy_common_desc$"
+
+
+ tax_policy_1_contrary:0 "$tax_policy_1$"
+ tax_policy_1_contrary_desc:0 "$tax_policy_common_desc$"
+ tax_policy_2_contrary:0 "$tax_policy_2$"
+ tax_policy_2_contrary_desc:0 "$tax_policy_common_desc$"
+ tax_policy_3_contrary:0 "$tax_policy_3$"
+ tax_policy_3_contrary_desc:0 "$tax_policy_common_desc$"
+ tax_policy_4_contrary:0 "$tax_policy_4$"
+ tax_policy_4_contrary_desc:0 "$tax_policy_common_desc$"
+ tax_policy_5_contrary:0 "$tax_policy_5$"
+ tax_policy_5_contrary_desc:0 "$tax_policy_common_desc$"
+ tax_policy_6_contrary:0 "$tax_policy_6$"
+ tax_policy_6_contrary_desc:0 "$tax_policy_common_desc$"
+ tax_policy_7_contrary:0 "$tax_policy_7$"
+ tax_policy_7_contrary_desc:0 "$tax_policy_common_desc$"
+ tax_policy_8_contrary:0 "$tax_policy_8$"
+ tax_policy_8_contrary_desc:0 "$tax_policy_common_desc$"
+ tax_policy_9_contrary:0 "$tax_policy_9$"
+ tax_policy_9_contrary_desc:0 "$tax_policy_common_desc$"
+
+
+
+ #social_policy_law_1:0 "Dominant Private Sector"
+ #social_policy_law_1_desc:0 "$social_policy_law_common_desc$"
+ #social_policy_law_2:0 "Extensive Private Sector"
+ #social_policy_law_2_desc:0 "$social_policy_law_common_desc$"
+ #social_policy_law_3:0 "Large Private Sector"
+ #social_policy_law_3_desc:0 "$social_policy_law_common_desc$"
+ #social_policy_law_4:0 "Substantial Private Sector"
+ #social_policy_law_4_desc:0 "$social_policy_law_common_desc$"       #Liberatarian
+ #social_policy_law_5:0 "Balanced Social Policy"                     #Middle
+ #social_policy_law_5_desc:0 "$social_policy_law_common_desc$"       #Authoritarian
+ #social_policy_law_6:0 "Substantial Public Sector"
+ #social_policy_law_6_desc:0 "$social_policy_law_common_desc$"
+ #social_policy_law_7:0 "Large Public Sector"
+ #social_policy_law_7_desc:0 "$social_policy_law_common_desc$"
+ #social_policy_law_8:0 "Extensive Public Sector"
+ #social_policy_law_8_desc:0 "$social_policy_law_common_desc$"
+ #social_policy_law_9:0 "Dominant Public Sector"
+ #social_policy_law_9_desc:0 "$social_policy_law_common_desc$"
+
+ #social_policy_law_common_desc:0 "Social policy is a plan or action of government or institutional agencies which aim to improve or reform society. It consists of guidelines, principles, legislation and associated activities that affect the living conditions conducive to human welfare, such as a person's quality of life. It can described as public practice in areas such as health care, human services, criminal justice, inequality, education, and labor."
+
+
+
+
+ laws_social:0 "Social Order Policy"  #was Social Policy
+
+
+ social_policy_law_common_desc:0 "Social order is how institutions, groups and values work collaboratively to keep a society stable and in order. The term refers to how all societal components work together to move forward rather than fall apart."
+
+
+#Statism?
+#Change Social policy to Public Policy?
+
+ social_policy_law_1:0 "Anarchic Social Order"
+ social_policy_law_1_desc:0 "$social_policy_law_common_desc$"
+ social_policy_law_2:0 "Minarchic Social Order"
+ social_policy_law_2_desc:0 "$social_policy_law_common_desc$"
+ social_policy_law_3:0 "Permissive Social Order"
+ social_policy_law_3_desc:0 "$social_policy_law_common_desc$"
+ social_policy_law_4:0 "Lenient Social Order"
+ social_policy_law_4_desc:0 "$social_policy_law_common_desc$"           #Liberatarian
+ social_policy_law_5:0 "Balanced Social Order"                          #Middle
+ social_policy_law_5_desc:0 "$social_policy_law_common_desc$"           #Authoritarian
+ social_policy_law_6:0 "Restrictive Social Order"
+ social_policy_law_6_desc:0 "$social_policy_law_common_desc$"
+ social_policy_law_7:0 "Repressive Social Order"
+ social_policy_law_7_desc:0 "$social_policy_law_common_desc$"
+ social_policy_law_8:0 "Paternalistic Social Order"
+ social_policy_law_8_desc:0 "$social_policy_law_common_desc$"
+ social_policy_law_9:0 "Totalitarian Social Order"
+ social_policy_law_9_desc:0 "$social_policy_law_common_desc$"
+
+
+ social_policy_law_1_inverse:0 "$social_policy_law_1$"
+ social_policy_law_1_inverse_desc:0 "$social_policy_law_common_desc$"
+ social_policy_law_2_inverse:0 "$social_policy_law_2$"
+ social_policy_law_2_inverse_desc:0 "$social_policy_law_common_desc$"
+ social_policy_law_3_inverse:0 "$social_policy_law_3$"
+ social_policy_law_3_inverse_desc:0 "$social_policy_law_common_desc$"
+ social_policy_law_4_inverse:0 "$social_policy_law_4$"
+ social_policy_law_4_inverse_desc:0 "$social_policy_law_common_desc$"
+ social_policy_law_5_inverse:0 "$social_policy_law_5$"
+ social_policy_law_5_inverse_desc:0 "$social_policy_law_common_desc$"
+ social_policy_law_6_inverse:0 "$social_policy_law_6$"
+ social_policy_law_6_inverse_desc:0 "$social_policy_law_common_desc$"
+ social_policy_law_7_inverse:0 "$social_policy_law_7$"
+ social_policy_law_7_inverse_desc:0 "$social_policy_law_common_desc$"
+ social_policy_law_8_inverse:0 "$social_policy_law_8$"
+ social_policy_law_8_inverse_desc:0 "$social_policy_law_common_desc$"
+ social_policy_law_9_inverse:0 "$social_policy_law_9$"
+ social_policy_law_9_inverse_desc:0 "$social_policy_law_common_desc$"
+
+
+
+
+
+
+
+
+
+
+
+
+ undisturbed_isolation_fixed:0 "Undisturbed Isolation"
+ undisturbed_isolation_fixed_desc:0 ""
+ isolation_fixed:0 "Isolation"
+ isolation_fixed_desc:0 ""
+ low_economic_mobilisation_fixed:0 "Early Mobilization"
+ low_economic_mobilisation_fixed_desc:0 ""
+ partial_economic_mobilisation_fixed:0 "Partial Mobilization"
+ partial_economic_mobilisation_fixed_desc:0 ""
+ war_economy_fixed:0 "War Economy"
+ war_economy_fixed_desc:0 ""
+ tot_economic_mobilisation_fixed:0 "Total Mobilization"
+ tot_economic_mobilisation_fixed_desc:0 "I ask you: Do you want the total war?! Do you want it, if necessary, more total and radical than anything that we can yet today even conceive?!"
+
+
+ undisturbed_isolation_desc:0 ""
+
+ tot_economic_mobilisation_desc:0 "I ask you: Do you want the total war?! Do you want it, if necessary, more total and radical than anything that we can yet today even conceive?!"
+
+
+ 
+ 
+ 
+ undisturbed_isolation_ammo_gain_tt:0 "£ammo_production_texticon  §YMilitary Factory§! Ammunition Output: §R-50.00%§!"
+ isolation_ammo_gain_tt:0 "£ammo_production_texticon  §YMilitary Factory§! Ammunition Output: §R-40.00%§!"
+ civilian_economy_ammo_gain_tt:0 "£ammo_production_texticon  §YMilitary Factory§! Ammunition Output: §R-30.00%§!"
+ low_economic_mobilisation_ammo_gain_tt:0 "£ammo_production_texticon  §YMilitary Factory§! Ammunition Output: §R-10.00%§!"
+ partial_economic_mobilisation_ammo_gain_tt:0 "£ammo_production_texticon  §YMilitary Factory§! Ammunition Output: §G+10.00%§!"
+ war_economy_ammo_gain_tt:0 "£ammo_production_texticon  §YMilitary Factory§! Ammunition Output: §G+20.00%§!"
+ tot_economic_mobilisation_gain_tt:0 "£ammo_production_texticon  §YMilitary Factory§! Ammunition Output: §G+30.00%§!"
+
+
+
+
+
+
+
+
+###################################
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OG_logistics_idea:0 "Supply Depots"
+ 
+ OG_maintenance_effort_idea:0 "Military Vehicle Recovery Crews"
+ 
+ OG_armored_production_idea:0 "Armored Production Lines"
+ 
+ OG_license_production:0 "License Production"
+ 
+ OG_military_planning:0 "General Staff"
+ 
+ OG_military_academy:0 "Military Academy Scholarships"
+ 
+ OG_female_military_volunteer_corps:0 "Women's Volunteer Corps"
+ 
+ OG_homeguard:0 "Homeguard"
+ 
+ OG_special_forces:0 "Special Forces"
+ 
+ OG_domestic_plane_designs_idea:0 "Aeronautical Knowledge Pool"
+ 
+ OG_domestic_plane_production:0 "Domestic Plane Program"
+ 
+ OG_flying_clubs:0 "Flying Clubs"
+ 
+ OG_interceptor_doctrine:0 "Home Interception Command Center"
+ 
+ OG_long_range_escorts:0 "Longe Range Escorts"
+ 
+ OG_naval_refitting_idea:0 "Naval Refitting Yards"
+ 
+ OG_mine_warfare:0 "Mine Warfare"
+ 
+ OG_modular_construction:0 "Modular Construction"
+ 
+ OG_armored_convoys:0 "Armored Convoys"
+ 
+ OG_combined_arms_warfare_idea:0 "Combined Arms Warfare"
+ 
+ war_industrial_coordination_idea:0 "War Industrial Coordination Board"
+ 
+ resource_metal_excavation_idea:0 "Resource Prospecting"
+ 
+ resource_oil_excavation_idea:0 "Oil Refinery Experiments"
+ 
+ OG_rationing_idea:0 "Rationing"
+ 
+ OG_collectivist_ethos_idea:0 "Collectivist Ethos"
+ 
+ OG_liberty_ethos_idea:0 "Liberty Ethos"
+ 
+ OG_military_youth_idea:0 "National Youth Organization"
+ 
+ OG_paramilitarism_idea:0 "Paramilitary Integration"
+ 
+ OG_militarism_idea:0 "Militarism"
+ 
+ OG_indoctrination_idea:0 "Secret Police"
+ 
+ OG_neutrality_trading_idea:0 "Open Trade Agreements"
+ 
+ OG_shelter_refugees_idea:0 "Asylum Haven" #Refugees
+ 
+ OG_king_and_country_idea:0 "Patriotism"
+ 
+ OG_political_commissars_idea:0 "Political Commissars"
+ 
+ OG_volunteer_corps_idea:0 "Volunteer Corps"
+ 
+ OG_lend_lease_idea:0 "Lend Lease Program"
+ 
+ OG_guarantees_idea:0 "Diplomatic Policing"
+ 
+ OG_realpolitik_idea:0 "Realpolitik"
+ 
+ OG_communist_partisan_focus:0 "Partisan Resistance Movement"
+ 
+ OG_united_high_command_idea:0 "United Allied High Command"
+ 
+ OG_never_surrender_idea:0 "Bastion of Democracy"
+ OG_never_surrender_idea_desc:0 "We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender!"
+ 
+ OG_new_world_order_idea:0 "Total War"
+ 
+ OG_cavalry_modernization_idea:0 "Cavalry Modernization"
+ 
+ OG_five_year_plan_idea:0 "Five Year Plan"
+ 
+ OG_national_labour_front_idea:0 "National Labour Front"
+ 
+ OG_railway_construction_idea:0 "State Railways"
+ 
+ OG_class_struggle_idea:0 "Class Struggle"
+ 
+ OG_jurisdiction_idea:0 "Modern Jurisdiction"
+ 
+ OG_international_recognition_idea:0 "International Recognition"
+ 
+ OG_lebensborn_idea:0 "Blood and Soil"
+ 
+ OG_nationalism_drift_idea:0 "Nationalism"
+ OG_nationalism_desc:0 "Our people's hearts burn with nationalistic pride and they will fight hard to protect our homeland"
+
+ OG_internationalism_drift_idea:0 "Internationalism"
+ OG_internationalism_desc:0 "We strongly believe that ideology span across national borders and do not feel limited in crossing those borders ourselves."
+
+ OG_neutrality_drift_idea:0 "Traditionalism"
+ 
+ OG_democratic_drift_idea:0 "Liberalism"
+ 
+ OG_wartime_economics_lobbying_idea:0 "Wartime Economics Lobbying"
+ 
+ OG_why_we_fight_idea:0 "Why We Fight"
+ 
+ OG_ideological_fanaticism_idea:0 "Ideological Fanaticism"
+ 
+ OG_empire_idea:0 "National Pride"
+ 
+ OG_military_reorganization_negative_idea:0 "Military Reorganization"
+ OG_military_reorganization_negative_idea_removal_tt:0 "All §YLine Units§! design cost: §G-25%§!\nThis National Spirit will be removed upon completion of the focus '§Y$OG_army_reorganization_focus$§!'"
+ 
+ OG_military_reorganization_positive_idea:0 "Reorganized Military"
+ 
+ OG_flexible_contracts_idea:0 "Flexible Contracts"
+ 
+ OG_intelligence_idea:0 "Central Intelligence"
+ 
+ OG_subjects_guidance_idea:0 "Guided Subject"
+ 
+ OG_reprisal_bombers_idea:0 "Reprisal Bombers"
+ 
+ 
+ OG_coalition_government_democratic:0 "Democratic Coalition Government"
+ 
+ OG_coalition_government_neutrality:0 "Non-Aligned Coalition Government"
+ 
+ OG_coalition_government_fascism:0 "Fascist Coalition Government"
+ 
+ OG_coalition_government_communism:0 "Communist Coalition Government"
+ 
+ 
+
+
+
+ 
