@@ -6328,7 +6328,7 @@
  X98_initial: "S"
 
  X98_democratic: "Switzerland"
- X98_democratic_subject: "Swiss Dominiond"
+ X98_democratic_subject: "Swiss Dominion" # TRANSL: Origin is "Swiss Dominiond", remove 'd' to fixed
  X98_democratic_subject_DEF: "the Swiss Dominion"
  X98_socialism: "Republic of Switzerland"
  X98_socialism_DEF: "the Republic of Switzerland"
