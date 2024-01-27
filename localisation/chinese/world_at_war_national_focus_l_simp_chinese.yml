@@ -1,54 +1,55 @@
-﻿l_english:
+﻿l_simp_chinese:
 
- focus_unlock_design_company_tt: "\nNew §YDesign Company§! available:"
+ focus_unlock_design_company_tt: "\n新的 §Y设计商§! 可用:"
 
 
  ### Army ###
 
- OG_army_effort: "Army Effort"
- OG_army_effort_desc: "Despite the increasing possibilities of aerial and naval warfare, ground combat is still key in tomorrow's wars. With preparation, we can avoid reliving the hell of the trenches."
+ OG_army_effort: "重视陆军"
+ OG_army_effort_desc: "尽管空战和海战的可能性越来越大，但地面作战仍然是未来战争的关键。只要做好准备，我们就能避免重蹈战壕的覆辙。"
 
 
- OG_motorization_effort: "Motorization Effort"
- OG_motorization_effort_desc: "Mobility and protection are crucial to get infantry into and out of the field safely. Focusing on these developments will allow us to take action quickly."
+ OG_motorization_effort: "重视机动化"
+ OG_motorization_effort_desc: "机动性和防护性对于步兵安全进出战场至关重要。关注这些发展将使我们能够迅速采取行动。"
 
- OG_cavalry_effort: "Repurpose the Cavalry Corps"
- OG_cavalry_effort_desc: "With the modernization of our armed forces and the introduction of trucks, we need to repurpose our old cavalry corps to other duties."
- OG_cavalry_effort_tt: "Creates a free §YDivision Template§! with 5 §YCavalry Battalions§!."
+ OG_cavalry_effort: "重新运用骑兵团"
+ OG_cavalry_effort_desc: "随着我国武装部队的现代化和卡车的引进，我们需要将我们的老骑兵团重新用于其他任务。"
+ OG_cavalry_effort_tt: "创建一个包含 5 个 §Y骑兵营§! 的免费 §Y模板师§! ."
 
- OG_logistics_effort: "Logistics Effort"
- OG_logistics_effort_desc: "The lifeblood of any military campaign lies in the efficiency of its logistical operations. Acknowledging the pivotal role of logistics companies in sustaining an offensive, we should ensure that our armed forces always receive a seamless stream of supply and support."
-
-
- OG_maintenance_effort: "Military Vehicle Recovery Crews"
- OG_maintenance_effort_desc: ""
-
- OG_mechanization_effort: "Mechanization Effort"
- OG_mechanization_effort_desc: "Rethinking the possibilities of motorized infantry, we can push the limits of what vehicles can be constructed today."
-
- OG_armor_effort: "Armor Effort"
- OG_armor_effort_desc: "Applying what we have learned from mechanizing our infantry, we can improve our armored vehicles as well."
-
- OG_armored_production_effort: "Vehicle Refurbishment Plants"
- OG_armored_production_effort_desc: "In response to the increasing industrial demands of modern warfare, we should take a groundbreaking initiative to bolster our armored production and retention capabilities. Our armored vehicle manufacturing must be streamlined, and the establishment of dedicated refurbishment facilities must occur."
+ OG_logistics_effort: "重视后勤"
+ OG_logistics_effort_desc: "任何军事行动的生命线都在于其后勤行动的效率。鉴于后勤公司在维持攻势中的关键作用，我们应确保我们的武装部队始终能得到源源不断的补给和支持。"
 
 
+ OG_maintenance_effort: "军用车辆抢修人员"
+ OG_maintenance_effort_desc: "§Y无§!"
+
+ OG_mechanization_effort: "重视机械化"
+ OG_mechanization_effort_desc: "重新思考摩托化步兵的可能性，我们就能突破当今车辆构造的极限。"
+
+ OG_armor_effort: "重视装甲"
+ OG_armor_effort_desc: "利用我们从步兵机械化中学到的知识，我们也可以改进我们的装甲车辆。"
+
+ OG_armored_production_effort: "车辆翻新工厂"
+ OG_armored_production_effort_desc: "为了应对现代战争日益增长的工业需求，我们应采取突破性举措，加强我们的装甲生产和保有能力。我们必须精简装甲车辆的生产，并建立专门的翻新设施。"
 
 
- OG_tank_destroyer_effort: "Tank Destroyers"
- OG_tank_destroyer_effort_desc: "A controversial theory developed by some artillery officers, claiming that the best weapon against armored breakthroughs is a fast, lightly armored but heavily armed vehicle."
+
+
+ OG_tank_destroyer_effort: "坦克歼击车"
+ OG_tank_destroyer_effort_desc: "一些炮兵军官提出的一种有争议的理论，声称对付装甲突破的最佳武器是快速、轻装甲但全副武装的车辆。"
  
- OG_self_propelled_guns_effort: "Self-Propelled Guns"
- OG_self_propelled_guns_effort_desc: "The tank may have revolutionized warfare, but in many ways the self-propelled gun the is the most valuable vehicle on the battlefield. The fire support offered by comparatively cheap and simple vehicles is invaluable when it comes to fighting through fortifications or against enemy tanks."
+ OG_self_propelled_guns_effort: "自行火炮"
+ OG_self_propelled_guns_effort_desc: "坦克可能给战争带来了革命性的变化，但在许多方面，自行火炮才是战场上最有价值的车辆。在穿越工事或与敌方坦克作战时，相对廉价和简单的车辆所提供的火力支援是非常宝贵的。"
 
- OG_panzer_vor_focus: "All Tanks Forward!"
- OG_panzer_vor_focus_desc: "Whether it storms or snows, under the burning sun or ice cold nights, our tanks roar forward into the stormwind with thundering engines fast as lightning against the enemies. Ahead of all our comrades in battle we stand alone, so push deep into the enemy's ranks!" #Panzerlied modified lyrics
+ OG_license_production_focus: "许可证生产"
+ OG_panzer_vor_focus: "所有坦克，前进！"
+ OG_panzer_vor_focus_desc: "无论是狂风暴雨还是皑皑白雪，无论是烈日炎炎还是寒夜冰冻，我们的坦克都会在暴风中咆哮前行，用雷鸣般的引擎快如闪电地打击敌人。在所有战友面前，我们孤军奋战，向敌人纵深推进！" # Panzerlied 修改歌词 # TODO: 优化翻译
 
 
  OG_license_production_focus: "License Production"
  OG_license_production_focus_desc: ""
 
- OG_army_reorganization_focus: "Military Reorganization"
+ OG_army_reorganization_focus: "军队改组"
  OG_army_reorganization_focus_desc: "The organizational structure of our armed forces would be considered modern, if we still lived in the 19th century, that is. Consequently, it lies in our greatest interest to root out any archaic practices detrimental to conducting modern warfare. It will be an arduous task, and while undergoing such a transformation our combat capability will be severely limited."
  OG_army_reorganization_focus_select_effect_tt: "Immediate effect upon focus start:"
  OG_army_reorganization_focus_complete_effect_tt: "\nEffects upon focus completion:"
