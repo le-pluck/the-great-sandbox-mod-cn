@@ -1,0 +1,50 @@
+﻿l_english:
+ 
+ SMALL_NATIONS_SCENARIO_NAME:0 "Shattered World"
+ SMALL_NATIONS_SCENARIO_NAME_DESC:0 "Hailing from various origins, 215 independent nations have managed to step into the tumultuous time period of the 1930s. With no clear power balance in the world, the time is ripe for power-hungry dictators to scramble for new territories and sate their megalomanical desires. Regardless of ambition, does your nation have what it takes to tackle the great struggles ahead? Whether it will rise to power like no empire before, or fall apart like so many others, simply remains to be seen."
+ 
+ 
+
+ 
+ LARGE_NATIONS_SCENARIO:0 "Clash of Titans"
+ LARGE_NATIONS_SCENARIO_DESC:0 "The year is 1935 and the world is on the brink of turmoil!\nWhile 115 powerful nations look proudly back on a century of successful conquests, many of the respective leaders' lust for power remains unsated. Their gazes are already eagerly fixed on their neighbors, blinded by naive dreams of grandeur. The peace for our time is about to be squandered, and only one thing remains certain; When titans collide, millions must pay the price."
+ 
+ 
+ X11_GATHERING_STORM_DESC:0 ""
+ 
+ X30_GATHERING_STORM_DESC:0 ""
+ 
+ X40_GATHERING_STORM_DESC:0 ""
+ 
+ X64_GATHERING_STORM_DESC:0 ""
+ 
+ X70_GATHERING_STORM_DESC:0 ""
+ 
+ X87_GATHERING_STORM_DESC:0 ""
+ 
+ X88_GATHERING_STORM_DESC:0 ""
+ 
+ X96_GATHERING_STORM_DESC:0 ""
+ 
+ Y01_GATHERING_STORM_DESC:0 ""
+ 
+ Y03_GATHERING_STORM_DESC:0 ""
+ 
+ Y17_GATHERING_STORM_DESC:0 ""
+ 
+ Y29_GATHERING_STORM_DESC:0 ""
+ 
+ Y79_GATHERING_STORM_DESC:0 ""
+ 
+ Y85_GATHERING_STORM_DESC:0 ""
+ 
+ Y87_GATHERING_STORM_DESC:0 ""
+ 
+ 
+ 
+ snusmumricus_meguminum_icon_tt:0 "Hello and welcome to the Great Sandbox Mod!\nAs you may have noticed, all leader portraits and country flags previewed here are empty. This is because the mod generates them upon game start, depending a bit on what game rules you pick. The flag's base color will be kept as your 'national color', giving color to your flag pattern and airforce model emblems. Don't like the color? Enable debug mode and you'll find a decision menu for changing it. Also, don't forget to check out the mod's game rule settings.\nI ever wish you happiness. Good luck!\n/Snusmumriken"
+ 
+ 
+ 
+ 
+ 
