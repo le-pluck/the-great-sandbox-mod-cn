@@ -46,20 +46,20 @@
  OG_panzer_vor_focus_desc: "无论是狂风暴雨还是皑皑白雪，无论是烈日炎炎还是寒夜冰冻，我们的坦克都会在暴风中咆哮前行，用雷鸣般的引擎快如闪电地打击敌人。在所有战友面前，我们孤军奋战，向敌人纵深推进！" # Panzerlied 修改歌词 # TODO: 优化翻译
 
 
- OG_license_production_focus: "License Production"
- OG_license_production_focus_desc: ""
+ OG_license_production_focus: "许可证生产"
+ OG_license_production_focus_desc: "§Y无§!"
 
  OG_army_reorganization_focus: "军队改组"
- OG_army_reorganization_focus_desc: "The organizational structure of our armed forces would be considered modern, if we still lived in the 19th century, that is. Consequently, it lies in our greatest interest to root out any archaic practices detrimental to conducting modern warfare. It will be an arduous task, and while undergoing such a transformation our combat capability will be severely limited."
- OG_army_reorganization_focus_select_effect_tt: "Immediate effect upon focus start:"
- OG_army_reorganization_focus_complete_effect_tt: "\nEffects upon focus completion:"
+ OG_army_reorganization_focus_desc: "如果我们还生活在 19 世纪，那么我们军队的组织结构就会被认为是现代化的。因此，根除任何不利于开展现代战争的陈旧做法符合我们的最大利益。这将是一项艰巨的任务，而且在进行这种转变时，我们的作战能力将受到严重限制。"
+ OG_army_reorganization_focus_select_effect_tt: "自选择国策起即开始生效:"
+ OG_army_reorganization_focus_complete_effect_tt: "\n国策完成时获得以下效果:"
  
  
- OG_doctrine_effort: "Doctrine Effort"
- OG_doctrine_effort_desc: "The military doctrines that defined ground combat in the Great War are outdated. We must put our greatest minds to the task of shaping the military thought of tomorrow."
+ OG_doctrine_effort: "重视军事学说"
+ OG_doctrine_effort_desc: "大战中定义地面作战的军事理论已经过时。我们必须用我们最伟大的头脑来塑造未来的军事思想。"
  
- OG_military_planning_focus: "Campaign Planning Effort"
- OG_military_planning_focus_desc: "In the ever-evolving landscape of warfare, strategic foresight and meticulous planning are paramount. [ROOT.GetNonIdeologyNameDef] must focus on honing the skills of the military leadership, fostering a culture of meticulous campaign planning to achieve decisive victories on the battlefield."
+ OG_military_planning_focus: "重视作战计划"
+ OG_military_planning_focus_desc: "在不断变化的战争环境中，战略远见和周密计划至关重要。[ROOT.GetNonIdeologyNameDef]必须注重磨练军队领导层的技能，培养一种精心策划战役的文化，从而在战场上取得决定性的胜利。"
  
  OG_military_academy_focus: "Military Academy Scholarships"
  OG_military_academy_focus_desc: ""
