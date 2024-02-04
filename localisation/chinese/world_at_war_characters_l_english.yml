@@ -1,0 +1,281 @@
+﻿l_english:
+
+
+ #Auto-generated ADVISOR characters can be scoped as base_token_idea_token
+
+
+ ### GOVERNMENT CABINET ###
+ 
+ #Olof Palme quote (translated)
+ socialism_leader_XYZ_socialism_head_of_government_desc:0 "Revolutions solve nothing. The morning after the revolution, the troublesome everyday problems begin anew."
+
+ #Lame overused joke
+ centrism_democratic_leader_XYZ_centrism_head_of_government_desc:0 "Man, I really just want to grill."
+ 
+ #John Locke quote
+ liberalism_leader_XYZ_liberalism_head_of_government_desc:0 "All men by nature are equal in that equal right that every man hath to his natural freedom, without being subjected to the will or authority of any other man; being all equal and independent, no one ought to harm another in his life, health, liberty or possessions."
+ 
+ #Gustav Mahler quote
+ conservatism_leader_XYZ_conservatism_head_of_government_desc:0 "Tradition is not the worship of ashes, but the preservation of fire."
+ 
+ #King Louis XIV of France quotes
+ despotism_leader_XYZ_despotism_head_of_government_desc:0 "It is legal because I wish it. I am the state."
+ 
+ #Otto von Bismarck quote
+ military_junta_leader_XYZ_military_junta_leader_head_of_government_desc:0 "The great questions of the day will not be settled by means of speeches and majority decisions but by iron and blood."
+ 
+ #Oswald Mosley quote
+ fascism_leader_XYZ_fascism_head_of_government_desc:0 "Those who march with us will certainly face abuse, misunderstanding, bitter animosity, and possibly the ferocity of struggle and of danger. In return, we can only offer to them the deep belief that they are fighting so that a great land may live."
+ 
+ #Adolf Hitler quote
+ nazism_leader_XYZ_nazism_head_of_government_desc:0 "The stronger must dominate and not mate with the weaker, which would signify the sacrifice of its own higher nature. Only the born weakling can look upon this principle as cruel, and if he does so it is merely because he is of a feebler nature and narrower mind; for if such a law did not direct the process of evolution then the higher development of organic life would not be conceivable at all."
+ 
+ #Francisco Franco quote
+ falangism_leader_XYZ_falangism_head_of_government_desc:0 "I am responsible only to God and history."
+ 
+ #Leon Trotsky quote
+ internationalism_leader_XYZ_internationalism_head_of_government_desc:0 "If you can't convince a fascist, acquaint his head with the pavement."
+ 
+ #Monty Python and the Holy Grail reference (modified)
+ anarchism_leader_XYZ_anarcho_syndicalism_head_of_government_desc:0 "We don't have a lord. I told you, we're an anarcho-syndicalist commune. We take it in turns to be a sort of executive officer for the week, but all the decisions of that officer have to be ratified at a special bi-weekly meeting by a simple majority in the case of purely internal affairs but by a two thirds majority in the case of foreign affairs."
+ 
+ #Karl Marx quote
+ marxism_leader_XYZ_marxism_head_of_government_desc:0 "Workers of the world unite; You have nothing to lose but your chains!"
+ 
+ #Joseph Stalin quote
+ anti_revisionism_leader_XYZ_totalism_head_of_government_desc:0 "Those who vote decide nothing. Those who count the votes decide everything."
+ 
+ 
+ ### JUSTICE MINISTERS ###
+ 
+ #The Kybalion reference. Weird reference indeed, but suitable nonetheless in an unconventional way.
+ XYZ_democratic_justice_minister_norm_defier_XYZ_democratic_justice_minister_norm_defier_desc:0 "As above, so below; as below, so above."
+ XYZ_neutrality_justice_minister_norm_defier_XYZ_neutrality_justice_minister_norm_defier_desc:0 "$XYZ_democratic_justice_minister_norm_defier_XYZ_democratic_justice_minister_norm_defier_desc$"
+ XYZ_fascism_justice_minister_norm_defier_XYZ_fascism_justice_minister_norm_defier_desc:0 "$XYZ_democratic_justice_minister_norm_defier_XYZ_democratic_justice_minister_norm_defier_desc$"
+ XYZ_communism_justice_minister_norm_defier_XYZ_communism_justice_minister_norm_defier:0 "$XYZ_democratic_justice_minister_norm_defier_XYZ_democratic_justice_minister_norm_defier_desc$"
+ 
+ 
+ ### POLITICAL ADVISORS ###
+
+ #The most godawfully cheesy pickup line that Snusmumriken could come up with.
+ XYZ_smooth_talking_charmer_XYZ_smooth_talking_charmer_desc:0 "Hey there handsome, wanna reenact the Battle of the Bulge or should we just skip straight into storming the trench?"
+
+ #Team America: World Police quote
+ XYZ_democratic_reformer_XYZ_democratic_reformer_desc:0 "Freedom isn't free."
+
+ #Godfather quote
+ XYZ_the_don_XYZ_the_don_desc:0 "You can do anything. But never go against the family."
+
+
+ XYZ_democracy_nepotist_XYZ_democracy_nepotist_desc:0 "If you're ever in need of assistance, I know a guy or two perfectly qualified for the job..."
+ XYZ_neutrality_nepotist_XYZ_neutrality_nepotist_desc:0 "$XYZ_democracy_nepotist_XYZ_democracy_nepotist_desc$"
+ XYZ_fascism_nepotist_XYZ_fascism_nepotist_desc:0 "$XYZ_democracy_nepotist_XYZ_democracy_nepotist_desc$"
+ XYZ_communism_nepotist_XYZ_communism_nepotist_desc:0 "$XYZ_democracy_nepotist_XYZ_democracy_nepotist_desc$"
+ 
+ # Mitchel & Webb short sketch reference
+ XYZ_prince_of_terror_XYZ_prince_of_terror_desc:0 "Have you noticed that our caps actually have little pictures of skulls on them?\nHans... are we the baddies?"
+ 
+ # Nightwish song 'Bless the Child' closing words
+ XYZ_religious_icon_XYZ_religious_icon_desc:0 "Remember my child - without innocence the cross is only iron."
+ 
+ # George Orwell quote, with joke at the end.
+ XYZ_editor_XYZ_editor_desc:0 "Every nationalist is haunted by the belief that the past can be altered. He spends part of his time in a fantasy world in which things happen as they should - in which, for example, the Spanish Armada was a success or the Russian Revolution was crushed in 1918 - and he will transfer fragments of this world to the history books whenever possible...\n\n... Or to the Hearts of Iron Steam Workshop."
+ 
+ #Joseph Goebbles quote
+ XYZ_propaganda_expert_XYZ_propaganda_expert_desc:0 "If you repeat a lie often enough, people will believe it, and you will even come to believe it yourself."
+ 
+ # Better Call Saul reference
+ XYZ_sharp_tongued_lawyer_XYZ_sharp_tongued_lawyer_desc:0 "I'm gonna be a damn good lawyer, and people are gonna know about it!"
+ 
+ XYZ_popular_figurehead_XYZ_popular_figurehead_desc:0 "The official salmon-loving mascot of this country! The adventures of this heroic figure have been many, and now the SRS has adopted him and elevated his status into an icon for the whole nation to rally around."
+
+ #Caligula's horse reference
+ XYZ_silent_workhorse_XYZ_silent_workhorse_desc:0 "My colleagues have given me the nickname Incitatus. I'm busy working, so I can't be bothered asking why."
+
+ #Impressment
+ XYZ_alluring_con_artist_XYZ_alluring_con_artist_desc:0 "Imagine you and me, alone on a tropical beach... Well, you know what they say - fortune favors the bold. Sign this contract for me and who knows where fate might take us? Oh, and don't mind the fine print, it's just some unimportant terms and conditions. A man of your caliber certainly deserves an 'impressing' employment indeed..."
+
+ ### ECONOMICAL ADVISORS ###
+
+
+ #Lord of War quote
+ XYZ_armaments_organizer_XYZ_armaments_organizer_desc:0 "This is the AK-47 assault rifle, the preferred weapon of your enemy. And it makes a distinctive sound when fired at you, so remember it."
+
+ #MGR Senator Armstrong quote
+ XYZ_war_industrialist_XYZ_war_industrialist_desc:0 "What about all the good things war has done for us? Why don't we ever hear speeches about that? Jobs, technology, a common purpose... All we're sayin' is... GIVE WAR A CHANCE!"
+
+
+ #Ronald Reagan quote
+ XYZ_economist_XYZ_economist_desc:0 "Government's view of the economy could be summed up in a few short phrases:\nIf it moves, tax it.\nIt if keeps moving, regulate it.\nAnd if it stops moving, subsidize it."
+ 
+ 
+ #Donald Trump quote
+ XYZ_dealbroker_XYZ_dealbroker_desc:0 "I don't make deals for the money. I've got enough, much more than I'll ever need. I do it to do it. Deals are my art form."
+
+ #
+ XYZ_tenacious_negotiator_XYZ_tenacious_negotiator_desc:0 ""
+
+ #Aldous Huxley's Brave New World quote
+ XYZ_technocrat_XYZ_technocrat_desc:0 "A love of nature keeps no factories busy."
+
+
+ ### INTELLIGENCE ADVISORS ###
+
+
+ #Alan Turing quote
+ XYZ_mastermind_code_cracker_XYZ_mastermind_code_cracker_desc:0 "A computer would deserve to be called intelligent if it could deceive a human into believing that it was human."
+
+ #Joke that Snusmumriken wrote. Inspired by the last words of the Ukrainian parody song 'Meine Kleine' by the imaginary band 'Hände Hoch'.
+ XYZ_head_of_national_security_XYZ_head_of_national_security_desc:0 "'Nicht schießen!', you say? What do you mean 'Not the cheese!'? Sounds to me like you're a rat!"
+
+ # Sam Hyde's 'Hitler's Top Guy' comedy sketch transcript (modified)
+ XYZ_professional_agitator_XYZ_professional_agitator_desc:0 "I really don't like a certain powerful dictator and I disapprove of what he did... But I would still love to be in his enemy's occupied capital. Again, hear me out on this one, because I think I would have made a very good soldier, probably, I would imagine. I did good in highschool sports, I think I would've been the dictator's top soldier. My point is that I would've been some sort of elite shock troop, you know, probably some sort of special forces - the dicator's special forces, right? Like, okay, here's the thing: No matter how much you disapprove of the guy, no matter how much you dislike him, which I DO... Uhh...\n\nLook, notorious figures throughout history. You got all the bad guys in history, you got the whole lineup. What if one of them was looking at YOU, saying: 'Hey, you're my go-to guy. You're MY guy that I go to when I need a problem solved'? What if this dictator was saying this to YOU? Can you imagine that for a second?! What if he said that you're such a physical beast, dude, you're such a physical, nasty beast that I'm basically gonna make you in charge of a platoon of panzers, okay? You're basically so hunked up and shredded that I have no choice but to make you a legend in the empire...\n\nI would say to myself: Man, this dictator guy is up to no good. I hate this, I can't take anymore of this! I don't know what I'm gonna do... But I'm the dictator's top guy! What am I gonna do?! Our dictator chose me to lead the revolution!\n\nIf Alexander the Great tells you you're his top guy; You're his top guy! - You're now in a position where you have no choice but to go: 'Wow, I'm Alexander the Great's top guy, dude!' or 'Woah! the dictator needs me? Okay, I'll do it. I'm going to bat for you, man! I got your back, dude!'\n\n... Okay? That's my point. And I say that with the MOST respect for any victims of the dictator and the MOST disdain for the dictator and his actions."
+
+ ### SCIENTISTS ###
+ 
+ # 'The Missile Knows Where It Is' Copypasta extended
+ XYZ_rocket_scientist_XYZ_rocket_scientist_desc:0 "The missile knows where it is at all times. It knows this because it knows where it isn't. By subtracting where it is from where it isn't, or where it isn't from where it is - whichever is greater - it obtains a difference or deviation. The guidance subsystem uses deviations to generate corrective commands to drive the missile from a position where it is to a position where it isn't, and arriving at a position that it wasn't, it now is.\n\nConsequently, the position where it is is now the position that it wasn't, and it follows that the position that it was is now the position that it isn't. In the event that the position that it is in is not the position that it wasn't, the system has acquired a variation. The variation being the difference between where the missile is and where it wasn't.\n\nIf variation is considered to be a significant factor, it too may be corrected by the GEA. However, the missile must also know where it was. The missile guidance computer scenario works as follows: Because a variation has modified some of the information that the missile has obtained, it is not sure just where it is. However, it is sure where it isn't, within reason, and it know where it was. It now subtracts where it should be from where it wasn't, or vice versa. And by differentiating this from the algebraic sum of where it shouldn't be and where it was, it is able to obtain the deviation and its variation, which is called error.\n\nIn this way, it can determine its current position in space and time, its new position, its position in time, its new position in space and time, and so forth. This mathematical process is performed in a number of stages. If the error should exceed some figure of merit, the stage-1 and stage-2 part of the process change according to the figure of merit. A temperature of 4 degrees above zero Celsius is considered to be high. So the stage-1 part of the system now is included in a correction, to obtain a low point in the system and one in the error.\n\nThen when the system reaches a stage-2 part, the stage-1 part is deleted from the corrective stage-2, to obtain a zero error stage. This is where the discrepancy between where the missile is and where it should be can now be compared with its destination, by simply adding the two figures of merit. Correcting error may produce higher speeds and greater accuracy than conventional anti-ballistic missiles."
+
+ #J. Robert Oppenheimer quote
+ XYZ_nuclear_scientist_XYZ_nuclear_scientist_desc:0 "Now I Am Become Death, the Destroyer of Worlds."
+
+ #Steins;Gate reference
+ XYZ_eccentric_scientist_XYZ_eccentric_scientist_desc:0 "Phew, I'm exhausted - The ACS, AMO and BS are all after me and I've been working on this new gadget the entire day! Assistant, would you mind fetching me a banana? It's right over there in the microwave."
+
+ #Pervitin / Panzerschokolade reference
+ XYZ_pharmacologist_scientist_XYZ_pharmacologist_scientist_desc:0 "Hildebrand chocolates are always a delight!"
+
+
+
+
+ ### ARMY CHIEF ###
+ 
+ 
+ XYZ_army_chief_old_guard_XYZ_army_chief_old_guard_desc:0 "Back in my day we had to WALK across No Man's Land!"
+ 
+ #FMJ reference (modified)
+ XYZ_army_chief_drill_XYZ_army_chief_drill_desc:0 "I am your senior drill instructor. From now on you will speak only when spoken to, and the first and last words out of your filthy sewers will be 'Sir'. Do you maggots understand that? "
+ 
+ #Black Adder Goes Forth reference (modified)
+ XYZ_army_chief_planning_XYZ_army_chief_planning_desc:0 "I have a plan, a cunning and subtle one. It is as cunning as a fox who has just been appointed Professor of Cunning at Oxford University."
+
+ 
+ #French WW1 propaganda slogan
+ XYZ_army_chief_defensive_XYZ_army_chief_defensive_desc:0 "They shall not pass!"
+ 
+ #Heinz Guderian quote
+ XYZ_army_chief_maneuver_XYZ_army_chief_maneuver_desc:0 "The engine of the tank is a weapon just as the main-gun."
+ 
+ 
+ #George Patton quote
+ XYZ_army_chief_offensive_XYZ_army_chief_offensive_desc:0 "Nobody ever defended anything successfully, there is only attack and attack and attack some more."
+ 
+ 
+ #Carl Gustaf Emil Mannerheim quotes
+ XYZ_army_chief_morale_XYZ_army_chief_morale_desc:0 "Fortifications, artillery, and foreign aid will be of no value unless the ordinary soldier knows that HE is defending his country. In war the psychological factors are often the decisive ones. An adversary who feels inferior is in reality so."
+ 
+ #The Winter War movie quotes (modified)
+ XYZ_army_chief_entrenchment_XYZ_army_chief_entrenchment_desc:0 "If it gets any colder in this trench we'll need dynamite to break up the cheese, unless the enemy artillery has the courtesy to do it for us."
+
+
+
+ ### AIRFORCE CHIEF ###
+ 
+ #Joke that Snumumriken wrote
+ XYZ_air_chief_old_guard_XYZ_air_chief_old_guard_desc:0 "Monoplanes? Bah, pathetic! How can a single mainplane possibly be better than two? Mark my words - I'd give it about a decade before this silly fad is over, then the true age of the biplane will dawn anew. And don't you tell me I'm even half wrong about that, son!"
+
+ #Sabaton Night Witches song reference
+ XYZ_air_chief_night_operations_XYZ_air_chief_night_operations_desc:0 "Undetected AND unexpected!"
+
+ ### NAVY CHIEF ###
+
+
+ XYZ_navy_chief_old_guard_XYZ_navy_chief_old_guard_desc:0 "Nothing beats the might of a good ol' battleship."
+
+ #Gustavus Adolphus quote (translated & modified)
+ XYZ_navy_chief_decisive_battle_XYZ_navy_chief_decisive_battle_desc:0 "After God, the welfare of the nation hangs on our fleet."
+
+ #Das Boot (translated) quote
+ XYZ_navy_chief_commerce_raiding_XYZ_navy_chief_commerce_raiding_desc:0 "Okay, men, now listen. We're going to blow out the water now and see if we can get our rear ends out of the sand. If we make it to the surface, things could still get pretty rough. Traffic's heavy up there. And we have to pray the engines start, so we can get out of this mess. The condition the boat is in, we have got to head straight for La Rochelle. If we make it... it's half a bottle of beer for each! There is one thing on our side; they won't be expecting us. Well men, all set?"
+
+
+ #Snusmumriken failing to find a pun
+ XYZ_navy_chief_small_fleet_organizer_XYZ_navy_chief_small_fleet_organizer_desc:0 "Seadog, underdog, I'm sure there's a good pun somewhere here. Underseadog? No, that doesn't seem right either..."
+
+
+
+
+
+ ### ARMY HIGH COMMAND ###
+
+
+ #Generation War: Unsere Mütter, unsere Väter (translated) quote
+ XYZ_army_infantry_XYZ_army_infantry_desc:0 "Most people think that war is mostly about fighting, that's not true. It's the waiting - for the next attack, the next meal, the next morning."
+
+
+ # MW2 (2009) General Shepherd quote
+ XYZ_army_commando_XYZ_army_commando_desc:0 "Five years ago, I lost 30,000 men in the blink of an eye. And the world just fuckin' watched. Tomorrow, there would be no shortage of volunteers and no shortage of patriots. I know you understand."
+
+ # Napoleon Bonaparte quote
+ XYZ_army_artillery_XYZ_army_artillery_desc:0 "God fights on the side with the best artillery."
+
+ #Not an actual Patton quote, but suitable nonetheless
+ XYZ_army_logistics_XYZ_army_logistics_desc:0 "Amateurs study tactics, professionals study logistics."
+ 
+ #The Unknown Soldier quote
+ XYZ_army_regrouping_XYZ_army_regrouping_desc:0 "The battalion can operate very well without you. No man is indispensable in a war, no matter who he is."
+ 
+ #Erwin Rommel quote
+ XYZ_army_planning_XYZ_army_planning_desc:0 "No plan survives contact with the enemy."
+ 
+ 
+ #LotR reference
+ XYZ_army_cavalry_XYZ_army_cavalry_desc:0 "Ride now, ride now, ride! Ride for ruin and the world's ending! Death! Death! Death! Forth Eorlingas!"
+
+ #Scooby-Doo & Czterej pancerni i pies references
+ XYZ_army_armored_XYZ_army_armored_desc:0 "Ain't got no meddling kids to solve your mystery, but we do have 4 tankers and a dog."
+ #UNUSED. Girlz und Panzer reference in meme format
+ #XYZ_army_armored_XYZ_army_armored_desc:0 "Hey, you're finally awake! You hit your head really hard there... Tankwondo? Drifting tanks? What are you talking about? Anyway, don't be ridiculous - that would only work if some cute girls were operating them."
+
+ #Stan Ridgway Camouflage song reference
+ XYZ_army_concealment_XYZ_army_concealment_desc:0 "I was once saved in the jungle by a big marine named Camouflage. It was a surreal experience to say the least."
+
+
+ ### AIRFORCE HIGH COMMAND ###
+ 
+ #Generic quote
+ XYZ_air_close_air_support_XYZ_air_close_air_support_desc:0 "We need air support!"
+ 
+ #Apocalypse Now quote
+ XYZ_air_strategic_bombing_XYZ_air_strategic_bombing_desc:0 "I love the smell of napalm in the morning."
+ 
+ #Winston Churchill quote
+ XYZ_air_bomber_interception_XYZ_air_bomber_interception_desc:0 "Never was so much owed by so many to so few."
+ 
+ #Iron Maiden song 'Aces High'
+ XYZ_air_air_combat_training_XYZ_air_air_combat_training_desc:0 "Run\nLive to fly\nFly to live\nDo or die\nWon't you run\nLive to fly\nFly to live\nAces high!"
+ 
+ # Kamikazetokubetsukōgekitai song translation
+ XYZ_air_naval_strike_XYZ_air_naval_strike_desc:0 "Stop gnashing your teeth in chagrin. This is the showdown we have long waited for. Now is the time for us to smash the enemy. The young cherry blossoms are on their mettle.\n\nIf we should fail to win this one battle, what future would await our fatherland? Orders to destroy the enemy have been issued - To the Divine Wind Special Attack Forces."
+
+ #Band of Brothers quote
+ XYZ_air_airborne_XYZ_air_airborne_desc:0 "We're paratroopers, Lieutenant, we're supposed to be surrounded."
+
+ ### NAVY HIGH COMMAND ### 
+
+
+ # Modified Navy Seals Copypasta (modified)
+ XYZ_navy_amphibious_assault_XYZ_navy_amphibious_assault_desc:0 "What the fuck did you just fucking say about me, you little bitch? I'll have you know I graduated top of my class in the Marine Corps, and I've been involved in numerous secret raids on terrorist groups, and I have over 300 confirmed kills. I am trained in gorilla warfare and I'm the top sniper in our entire armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the likes of which has never been seen before on this Earth, mark my fucking words. You think you can get away with saying that shit to me over the League of Nations? Think again, fucker. As we speak I am contacting my secret network of spies across the globe and your letters are being traced right now so you better prepare for the storm, maggot. The storm that wipes out the pathetic little thing you call your life. You're fucking dead, kid. I can be anywhere, anytime, and I can kill you in over seven hundred ways, and that's just with my bare hands. Not only am I extensively trained in unarmed combat, but I have access to the entire arsenal of the Marine Corps and I will use it to its full extent to wipe your miserable ass off the face of the continent, you little shit. If only you could have known what unholy retribution your little 'clever' comment was about to bring down upon you, maybe you would have held your fucking tongue. But you couldn't, you didn't, and now you're paying the price, you goddamn idiot. I will shit fury all over you and you will drown in it. You're fucking dead, kiddo."
+
+ #Yellow Submarine Beatles joke that Snusmumriken wrote.
+ XYZ_navy_anti_submarine_XYZ_navy_anti_submarine_desc:0 "What's that, boatswain? You've spotted an unusual yellow spot on the sonar and you're not sure if it's an enemy submarine?\nFull steam ahead, boatswain, this one's an enemy for sure! Oh, and turn off the radio communication systems, lest we might hear something awful..."
+
+
+ #Gloryhammer reference
+ XYZ_navy_submarine_XYZ_navy_submarine_desc:0 "I had the weirdest of dreams last night - Our submarine asscended into space and had to fight an evil wizard. It was all very glorious!"
+
+ #Bismarck sinking HMS Hood (DMX song 'Where The Hood At') joke that Snusmumriken wrote.
+ XYZ_navy_capital_ship_XYZ_navy_capital_ship_desc:0 "Ever since the 24th of May 1941, the musician DMX has seen a sudden rise in popularity among the German naval crews, especially that one particular song of his..."
+
+
+

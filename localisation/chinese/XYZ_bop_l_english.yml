@@ -1,0 +1,571 @@
+﻿l_english:
+
+ XYZ_power_balance_1:0 "Internal Party Approval" #<-- Scripted loc not supported for this text
+ XYZ_power_balance_2:0 "$XYZ_power_balance_1$"
+ XYZ_power_balance_3:0 "$XYZ_power_balance_1$"
+ XYZ_power_balance_4:0 "$XYZ_power_balance_1$"
+ XYZ_power_balance_5:0 "$XYZ_power_balance_1$"
+ XYZ_power_balance_6:0 "$XYZ_power_balance_1$"
+ XYZ_power_balance_7:0 "$XYZ_power_balance_1$"
+ XYZ_power_balance_8:0 "$XYZ_power_balance_1$"
+ XYZ_power_balance_9:0 "$XYZ_power_balance_1$"
+ XYZ_power_balance_10:0 "$XYZ_power_balance_1$"
+ XYZ_power_balance_11:0 "$XYZ_power_balance_1$"
+ XYZ_power_balance_12:0 "$XYZ_power_balance_1$"
+
+ law_cost_5_parliament_seats_tt:0 "5 §Y[ROOT.GetRulingParty]§! parliament members will defect to rival parties."
+
+ sack_leader_switch_subideology_tt:0 "§ROBS!§! This will force you to switch sub-ideology."
+
+ default_left_side:0 "Party Members' Discontent"
+ default_right_side:0 "Party Leader's Popularity"
+
+
+ left_side_range:0 "Party Is Disgruntled"
+ middle_left_side_range:0 "Rift In the Party"
+ far_left_side_range:0 "Party In Chaos"
+ coup_left_side_range:0 "Party Sacks Leader"
+
+ mid_range:0 "Party Is Indifferent"
+
+ right_side_range:0 "Approved Leader"
+ middle_right_side_range:0 "Popular Leader"
+ far_right_side_range:0 "Prestigious Leader"
+ coup_right_side_range:0 "Cult of Personality"
+ 
+ 
+ 
+ ### WULT ###
+ 
+ ### POSITIVE ###
+ 
+ XYZ_support_interaction_public_speech_WULT:0 "Support a $domestic_faction_workers_union_name_short$ public speech"
+ XYZ_support_interaction_public_speech_WULT_desc:0 "We will support activists from $domestic_faction_workers_union_name_DEF$ to deliver a public speech on their proposals regarding economic and social policies, industrial projects, and agrarian reforms." 
+ 
+ XYZ_support_interaction_joint_act_WULT:0 "Joint Act with the $domestic_faction_workers_union_name_short$"
+ XYZ_support_interaction_joint_act_WULT_desc:0 "We will organize a joint event with $domestic_faction_workers_union_name_DEF$ in which we will announce to the public our support for this faction and our willingness to cooperate with them."
+ 
+ XYZ_support_interaction_grant_privileges_WULT:0 "Grant Privileges to the $domestic_faction_workers_union_name_short$"
+ XYZ_support_interaction_grant_privileges_WULT_desc:0 "By pulling some legislative strings, we can improve $domestic_faction_workers_union_name_DEF$'s ability to carry out its political and social activities."
+ 
+ XYZ_support_interaction_fund_WULT:0 "Fund the $domestic_faction_workers_union_name_short$"
+ XYZ_support_interaction_fund_WULT_desc:0 "As our interests align, it would be beneficial to provide $domestic_faction_workers_union_name_DEF$ with funds to increase their influence."
+
+ XYZ_support_interaction_appoint_members_WULT:0 "Appoint $domestic_faction_workers_union_name_short$ Members"
+ XYZ_support_interaction_appoint_members_WULT_desc:0 "$domestic_faction_workers_union_name_DEF_CAP$ has proven to be made up of competent members with plenty of interesting ideas and proposals. We will offer relevant positions within our ministries to the most talented leaders among their ranks."
+
+ XYZ_support_interaction_integrate_WULT:0 "Integrate the $domestic_faction_workers_union_name_short$"
+ XYZ_support_interaction_integrate_WULT_desc:0 "We have been cooperating with $domestic_faction_workers_union_name_DEF$ as different, albeit close, entities so far, and it's time to finally integrate them under our administration."
+
+ XYZ_support_interaction_separate_WULT:0 "Separate the $domestic_faction_workers_union_name_short$"
+ XYZ_support_interaction_separate_WULT_desc:0 "Desperate times call for desperate measures: Selling off this domestic faction to private actors would give us some much needed capital."
+
+ ### NEGATIVE ###
+
+ XYZ_oppose_interaction_anti_speech_WULT:0 "Parliament Speech Against the $domestic_faction_workers_union_name_short$"
+ XYZ_oppose_interaction_anti_speech_WULT_desc:0 "We will make a speech in parliament against $domestic_faction_workers_union_name_DEF$ where we will deliver our contempt towards their organization and their anti-government stance."
+
+ XYZ_oppose_interaction_discredit_leaders_WULT:0 "Discredit $domestic_faction_workers_union_name_short$ Leaders"
+ XYZ_oppose_interaction_discredit_leaders_WULT_desc:0 "$domestic_faction_workers_union_name_DEF_CAP$ is spreading dangerous ideas and severe criticism of our government among the population, which is completely unacceptable to us. We must publicly discredit their leaders, thus damaging their public image and popularity."
+ 
+ XYZ_oppose_interaction_anti_rally_WULT:0 "Rally Against the $domestic_faction_workers_union_name_short$"
+ XYZ_oppose_interaction_anti_rally_WULT_desc:0 "We will organize a rally against $domestic_faction_workers_union_name_DEF$ where we will deliver a speech on our contempt towards their organization and their anti-government stance."
+ 
+ XYZ_oppose_interaction_repress_WULT:0 "Repress the $domestic_faction_workers_union_name_short$"
+ XYZ_oppose_interaction_repress_WULT_desc:0 "We cannot tolerate dissidents and agitators dividing our nation. The acts perpetrated by members of $domestic_faction_workers_union_name_DEF$ against our government will have serious consequences."
+ 
+ XYZ_oppose_interaction_raid_supporters_WULT:0 "Raid $domestic_faction_workers_union_name_short$ Supporters"
+ XYZ_oppose_interaction_raid_supporters_WULT_desc:0 "$domestic_faction_workers_union_name_DEF_CAP$ has been a thorn in our side for too long. It's time to hunt down key members who are keeping the organization alive and actively conspiring against us."
+ 
+ XYZ_oppose_interaction_destroy_WULT:0 "Destroy the $domestic_faction_workers_union_name_short$"
+ XYZ_oppose_interaction_destroy_WULT_desc:0 "The time has come to deal the final blow to $domestic_faction_workers_union_name_DEF_CAP$ and rid the country of its threat once and for all."
+ 
+ XYZ_oppose_interaction_restore_WULT:0 "Restore the $domestic_faction_workers_union_name_short$"
+ XYZ_oppose_interaction_restore_WULT_desc:0 "Perhaps we were too harsh with $domestic_faction_workers_union_name_DEF$. Although their former members are without any doubt still angry with us, perhaps we can allow the restoration of the organization, develop good relations and focus on the future?"
+ 
+ 
+ ### AL ###
+ 
+ ### POSITIVE ###
+ 
+ XYZ_support_interaction_public_speech_AL:0 "Support a $domestic_faction_aristocratic_league_name_short$ public speech"
+ XYZ_support_interaction_public_speech_AL_desc:0 "We will support activists from $domestic_faction_aristocratic_league_name_DEF$ to deliver a public speech on their proposals regarding economic and social policies, industrial projects, and agrarian reforms." 
+ 
+ XYZ_support_interaction_joint_act_AL:0 "Joint Act with the $domestic_faction_aristocratic_league_name_short$"
+ XYZ_support_interaction_joint_act_AL_desc:0 "We will organize a joint event with $domestic_faction_aristocratic_league_name_DEF$ in which we will announce to the public our support for this faction and our willingness to cooperate with them."
+ 
+ XYZ_support_interaction_grant_privileges_AL:0 "Grant Privileges to the $domestic_faction_aristocratic_league_name_short$"
+ XYZ_support_interaction_grant_privileges_AL_desc:0 "By pulling some legislative strings, we can improve $domestic_faction_aristocratic_league_name_DEF$'s ability to carry out its political and social activities."
+ 
+ XYZ_support_interaction_fund_AL:0 "Fund the $domestic_faction_aristocratic_league_name_short$"
+ XYZ_support_interaction_fund_AL_desc:0 "As our interests align, it would be beneficial to provide $domestic_faction_aristocratic_league_name_DEF$ with funds to increase their influence."
+
+ XYZ_support_interaction_appoint_members_AL:0 "Appoint $domestic_faction_aristocratic_league_name_short$ Members"
+ XYZ_support_interaction_appoint_members_AL_desc:0 "$domestic_faction_aristocratic_league_name_DEF_CAP$ has proven to be made up of competent members with plenty of interesting ideas and proposals. We will offer relevant positions within our ministries to the most talented leaders among their ranks."
+
+ XYZ_support_interaction_integrate_AL:0 "Integrate the $domestic_faction_aristocratic_league_name_short$"
+ XYZ_support_interaction_integrate_AL_desc:0 "We have been cooperating with $domestic_faction_aristocratic_league_name_DEF$ as different, albeit close, entities so far, and it's time to finally integrate them under our administration."
+
+ XYZ_support_interaction_separate_AL:0 "Separate the $domestic_faction_aristocratic_league_name_short$"
+ XYZ_support_interaction_separate_AL_desc:0 "Desperate times call for desperate measures: Selling off this domestic faction to private actors would give us some much needed capital."
+
+ ### NEGATIVE ###
+
+ XYZ_oppose_interaction_anti_speech_AL:0 "Parliament Speech Against the $domestic_faction_aristocratic_league_name_short$"
+ XYZ_oppose_interaction_anti_speech_AL_desc:0 "We will make a speech in parliament against $domestic_faction_aristocratic_league_name_DEF$ where we will deliver our contempt towards their organization and their anti-government stance."
+
+ XYZ_oppose_interaction_discredit_leaders_AL:0 "Discredit $domestic_faction_aristocratic_league_name_short$ Leaders"
+ XYZ_oppose_interaction_discredit_leaders_AL_desc:0 "$domestic_faction_aristocratic_league_name_DEF_CAP$ is spreading dangerous ideas and severe criticism of our government among the population, which is completely unacceptable to us. We must publicly discredit their leaders, thus damaging their public image and popularity."
+ 
+ XYZ_oppose_interaction_anti_rally_AL:0 "Rally Against the $domestic_faction_aristocratic_league_name_short$"
+ XYZ_oppose_interaction_anti_rally_AL_desc:0 "We will organize a rally against $domestic_faction_aristocratic_league_name_DEF$ where we will deliver a speech on our contempt towards their organization and their anti-government stance."
+ 
+ XYZ_oppose_interaction_repress_AL:0 "Repress the $domestic_faction_aristocratic_league_name_short$"
+ XYZ_oppose_interaction_repress_AL_desc:0 "We cannot tolerate dissidents and agitators dividing our nation. The acts perpetrated by members of $domestic_faction_aristocratic_league_name_DEF$ against our government will have serious consequences."
+ 
+ XYZ_oppose_interaction_raid_supporters_AL:0 "Raid $domestic_faction_aristocratic_league_name_short$ Supporters"
+ XYZ_oppose_interaction_raid_supporters_AL_desc:0 "$domestic_faction_aristocratic_league_name_DEF_CAP$ has been a thorn in our side for too long. It's time to hunt down key members who are keeping the organization alive and actively conspiring against us."
+ 
+ XYZ_oppose_interaction_destroy_AL:0 "Destroy the $domestic_faction_aristocratic_league_name_short$"
+ XYZ_oppose_interaction_destroy_AL_desc:0 "The time has come to deal the final blow to $domestic_faction_aristocratic_league_name_DEF_CAP$ and rid the country of its threat once and for all."
+ 
+ XYZ_oppose_interaction_restore_AL:0 "Restore the $domestic_faction_aristocratic_league_name_short$"
+ XYZ_oppose_interaction_restore_AL_desc:0 "Perhaps we were too harsh with $domestic_faction_aristocratic_league_name_DEF$. Although their former members are without any doubt still angry with us, perhaps we can allow the restoration of the organization, develop good relations and focus on the future?"
+ 
+ 
+ 
+ ### ACS ###
+ 
+ ### POSITIVE ###
+ 
+ XYZ_support_interaction_public_speech_ACS:0 "Support a $domestic_faction_science_name_short$ public speech"
+ XYZ_support_interaction_public_speech_ACS_desc:0 "We will support activists from $domestic_faction_science_name_DEF$ to deliver a public speech on their proposals regarding economic and social policies, industrial projects, and agrarian reforms." 
+ 
+ XYZ_support_interaction_joint_act_ACS:0 "Joint Act with the $domestic_faction_science_name_short$"
+ XYZ_support_interaction_joint_act_ACS_desc:0 "We will organize a joint event with $domestic_faction_science_name_DEF$ in which we will announce to the public our support for this faction and our willingness to cooperate with them."
+ 
+ XYZ_support_interaction_grant_privileges_ACS:0 "Grant Privileges to the $domestic_faction_science_name_short$"
+ XYZ_support_interaction_grant_privileges_ACS_desc:0 "By pulling some legislative strings, we can improve $domestic_faction_science_name_DEF$'s ability to carry out its political and social activities."
+ 
+ XYZ_support_interaction_fund_ACS:0 "Fund the $domestic_faction_science_name_short$"
+ XYZ_support_interaction_fund_ACS_desc:0 "As our interests align, it would be beneficial to provide $domestic_faction_science_name_DEF$ with funds to increase their influence."
+
+ XYZ_support_interaction_appoint_members_ACS:0 "Appoint $domestic_faction_science_name_short$ Members"
+ XYZ_support_interaction_appoint_members_ACS_desc:0 "$domestic_faction_science_name_DEF_CAP$ has proven to be made up of competent members with plenty of interesting ideas and proposals. We will offer relevant positions within our ministries to the most talented leaders among their ranks."
+
+ XYZ_support_interaction_integrate_ACS:0 "Integrate the $domestic_faction_science_name_short$"
+ XYZ_support_interaction_integrate_ACS_desc:0 "We have been cooperating with $domestic_faction_science_name_DEF$ as different, albeit close, entities so far, and it's time to finally integrate them under our administration."
+
+ XYZ_support_interaction_separate_ACS:0 "Separate the $domestic_faction_science_name_short$"
+ XYZ_support_interaction_separate_ACS_desc:0 "Desperate times call for desperate measures: Selling off this domestic faction to private actors would give us some much needed capital."
+
+ ### NEGATIVE ###
+
+ XYZ_oppose_interaction_anti_speech_ACS:0 "Parliament Speech Against the $domestic_faction_science_name_short$"
+ XYZ_oppose_interaction_anti_speech_ACS_desc:0 "We will make a speech in parliament against $domestic_faction_science_name_DEF$ where we will deliver our contempt towards their organization and their anti-government stance."
+
+ XYZ_oppose_interaction_discredit_leaders_ACS:0 "Discredit $domestic_faction_science_name_short$ Leaders"
+ XYZ_oppose_interaction_discredit_leaders_ACS_desc:0 "$domestic_faction_science_name_DEF_CAP$ is spreading dangerous ideas and severe criticism of our government among the population, which is completely unacceptable to us. We must publicly discredit their leaders, thus damaging their public image and popularity."
+ 
+ XYZ_oppose_interaction_anti_rally_ACS:0 "Rally Against the $domestic_faction_science_name_short$"
+ XYZ_oppose_interaction_anti_rally_ACS_desc:0 "We will organize a rally against $domestic_faction_science_name_DEF$ where we will deliver a speech on our contempt towards their organization and their anti-government stance."
+ 
+ XYZ_oppose_interaction_repress_ACS:0 "Repress the $domestic_faction_science_name_short$"
+ XYZ_oppose_interaction_repress_ACS_desc:0 "We cannot tolerate dissidents and agitators dividing our nation. The acts perpetrated by members of $domestic_faction_science_name_DEF$ against our government will have serious consequences."
+ 
+ XYZ_oppose_interaction_raid_supporters_ACS:0 "Raid $domestic_faction_science_name_short$ Supporters"
+ XYZ_oppose_interaction_raid_supporters_ACS_desc:0 "$domestic_faction_science_name_DEF_CAP$ has been a thorn in our side for too long. It's time to hunt down key members who are keeping the organization alive and actively conspiring against us."
+ 
+ XYZ_oppose_interaction_destroy_ACS:0 "Destroy the $domestic_faction_science_name_short$"
+ XYZ_oppose_interaction_destroy_ACS_desc:0 "The time has come to deal the final blow to $domestic_faction_science_name_DEF_CAP$ and rid the country of its threat once and for all."
+ 
+ XYZ_oppose_interaction_restore_ACS:0 "Restore the $domestic_faction_science_name_short$"
+ XYZ_oppose_interaction_restore_ACS_desc:0 "Perhaps we were too harsh with $domestic_faction_science_name_DEF$. Although their former members are without any doubt still angry with us, perhaps we can allow the restoration of the organization, develop good relations and focus on the future?"
+ 
+
+ 
+ ### SRS ###
+ 
+ ### POSITIVE ###
+ 
+ XYZ_support_interaction_public_speech_SRC:0 "Support a $domestic_faction_religion_name_short$ public speech"
+ XYZ_support_interaction_public_speech_SRC_desc:0 "We will support activists from $domestic_faction_religion_name_DEF$ to deliver a public speech on their proposals regarding economic and social policies, industrial projects, and agrarian reforms." 
+ 
+ XYZ_support_interaction_joint_act_SRC:0 "Joint Act with the $domestic_faction_religion_name_short$"
+ XYZ_support_interaction_joint_act_SRC_desc:0 "We will organize a joint event with $domestic_faction_religion_name_DEF$ in which we will announce to the public our support for this faction and our willingness to cooperate with them."
+ 
+ XYZ_support_interaction_grant_privileges_SRC:0 "Grant Privileges to the $domestic_faction_religion_name_short$"
+ XYZ_support_interaction_grant_privileges_SRC_desc:0 "By pulling some legislative strings, we can improve $domestic_faction_religion_name_DEF$'s ability to carry out its political and social activities."
+ 
+ XYZ_support_interaction_fund_SRC:0 "Fund the $domestic_faction_religion_name_short$"
+ XYZ_support_interaction_fund_SRC_desc:0 "As our interests align, it would be beneficial to provide $domestic_faction_religion_name_DEF$ with funds to increase their influence."
+
+ XYZ_support_interaction_appoint_members_SRC:0 "Appoint $domestic_faction_religion_name_short$ Members"
+ XYZ_support_interaction_appoint_members_SRC_desc:0 "$domestic_faction_religion_name_DEF_CAP$ has proven to be made up of competent members with plenty of interesting ideas and proposals. We will offer relevant positions within our ministries to the most talented leaders among their ranks."
+
+ XYZ_support_interaction_integrate_SRC:0 "Integrate the $domestic_faction_religion_name_short$"
+ XYZ_support_interaction_integrate_SRC_desc:0 "We have been cooperating with $domestic_faction_religion_name_DEF$ as different, albeit close, entities so far, and it's time to finally integrate them under our administration."
+
+ XYZ_support_interaction_separate_SRC:0 "Separate the $domestic_faction_religion_name_short$"
+ XYZ_support_interaction_separate_SRC_desc:0 "Desperate times call for desperate measures: Selling off this domestic faction to private actors would give us some much needed capital."
+
+ ### NEGATIVE ###
+
+ XYZ_oppose_interaction_anti_speech_SRC:0 "Parliament Speech Against the $domestic_faction_religion_name_short$"
+ XYZ_oppose_interaction_anti_speech_SRC_desc:0 "We will make a speech in parliament against $domestic_faction_religion_name_DEF$ where we will deliver our contempt towards their organization and their anti-government stance."
+
+ XYZ_oppose_interaction_discredit_leaders_SRC:0 "Discredit $domestic_faction_religion_name_short$ Leaders"
+ XYZ_oppose_interaction_discredit_leaders_SRC_desc:0 "$domestic_faction_religion_name_DEF_CAP$ is spreading dangerous ideas and severe criticism of our government among the population, which is completely unacceptable to us. We must publicly discredit their leaders, thus damaging their public image and popularity."
+ 
+ XYZ_oppose_interaction_anti_rally_SRC:0 "Rally Against the $domestic_faction_religion_name_short$"
+ XYZ_oppose_interaction_anti_rally_SRC_desc:0 "We will organize a rally against $domestic_faction_religion_name_DEF$ where we will deliver a speech on our contempt towards their organization and their anti-government stance."
+ 
+ XYZ_oppose_interaction_repress_SRC:0 "Repress the $domestic_faction_religion_name_short$"
+ XYZ_oppose_interaction_repress_SRC_desc:0 "We cannot tolerate dissidents and agitators dividing our nation. The acts perpetrated by members of $domestic_faction_religion_name_DEF$ against our government will have serious consequences."
+ 
+ XYZ_oppose_interaction_raid_supporters_SRC:0 "Raid $domestic_faction_religion_name_short$ Supporters"
+ XYZ_oppose_interaction_raid_supporters_SRC_desc:0 "$domestic_faction_religion_name_DEF_CAP$ has been a thorn in our side for too long. It's time to hunt down key members who are keeping the organization alive and actively conspiring against us."
+ 
+ XYZ_oppose_interaction_destroy_SRC:0 "Destroy the $domestic_faction_religion_name_short$"
+ XYZ_oppose_interaction_destroy_SRC_desc:0 "The time has come to deal the final blow to $domestic_faction_religion_name_DEF_CAP$ and rid the country of its threat once and for all."
+ 
+ XYZ_oppose_interaction_restore_SRC:0 "Restore the $domestic_faction_religion_name_short$"
+ XYZ_oppose_interaction_restore_SRC_desc:0 "Perhaps we were too harsh with $domestic_faction_religion_name_DEF$. Although their former members are without any doubt still angry with us, perhaps we can allow the restoration of the organization, develop good relations and focus on the future?"
+ 
+ 
+ ### IV ###
+ 
+ ### POSITIVE ###
+ 
+ XYZ_support_interaction_public_speech_IV:0 "Support a $domestic_faction_paramilitary_name_short$ public speech"
+ XYZ_support_interaction_public_speech_IV_desc:0 "We will support activists from $domestic_faction_paramilitary_name_DEF$ to deliver a public speech on their proposals regarding economic and social policies, industrial projects, and agrarian reforms." 
+ 
+ XYZ_support_interaction_joint_act_IV:0 "Joint Act with the $domestic_faction_paramilitary_name_short$"
+ XYZ_support_interaction_joint_act_IV_desc:0 "We will organize a joint event with $domestic_faction_paramilitary_name_DEF$ in which we will announce to the public our support for this faction and our willingness to cooperate with them."
+ 
+ XYZ_support_interaction_grant_privileges_IV:0 "Grant Privileges to the $domestic_faction_paramilitary_name_short$"
+ XYZ_support_interaction_grant_privileges_IV_desc:0 "By pulling some legislative strings, we can improve $domestic_faction_paramilitary_name_DEF$'s ability to carry out its political and social activities."
+ 
+ XYZ_support_interaction_fund_IV:0 "Fund the $domestic_faction_paramilitary_name_short$"
+ XYZ_support_interaction_fund_IV_desc:0 "As our interests align, it would be beneficial to provide $domestic_faction_paramilitary_name_DEF$ with funds to increase their influence."
+
+ XYZ_support_interaction_appoint_members_IV:0 "Appoint $domestic_faction_paramilitary_name_short$ Members"
+ XYZ_support_interaction_appoint_members_IV_desc:0 "$domestic_faction_paramilitary_name_DEF_CAP$ has proven to be made up of competent members with plenty of interesting ideas and proposals. We will offer relevant positions within our ministries to the most talented leaders among their ranks."
+
+ XYZ_support_interaction_integrate_IV:0 "Integrate the $domestic_faction_paramilitary_name_short$"
+ XYZ_support_interaction_integrate_IV_desc:0 "We have been cooperating with $domestic_faction_paramilitary_name_DEF$ as different, albeit close, entities so far, and it's time to finally integrate them under our administration."
+
+ XYZ_support_interaction_separate_IV:0 "Separate the $domestic_faction_paramilitary_name_short$"
+ XYZ_support_interaction_separate_IV_desc:0 "Desperate times call for desperate measures: Selling off this domestic faction to private actors would give us some much needed capital."
+
+ ### NEGATIVE ###
+
+ XYZ_oppose_interaction_anti_speech_IV:0 "Parliament Speech Against the $domestic_faction_paramilitary_name_short$"
+ XYZ_oppose_interaction_anti_speech_IV_desc:0 "We will make a speech in parliament against $domestic_faction_paramilitary_name_DEF$ where we will deliver our contempt towards their organization and their anti-government stance."
+
+ XYZ_oppose_interaction_discredit_leaders_IV:0 "Discredit $domestic_faction_paramilitary_name_short$ Leaders"
+ XYZ_oppose_interaction_discredit_leaders_IV_desc:0 "$domestic_faction_paramilitary_name_DEF_CAP$ is spreading dangerous ideas and severe criticism of our government among the population, which is completely unacceptable to us. We must publicly discredit their leaders, thus damaging their public image and popularity."
+ 
+ XYZ_oppose_interaction_anti_rally_IV:0 "Rally Against the $domestic_faction_paramilitary_name_short$"
+ XYZ_oppose_interaction_anti_rally_IV_desc:0 "We will organize a rally against $domestic_faction_paramilitary_name_DEF$ where we will deliver a speech on our contempt towards their organization and their anti-government stance."
+ 
+ XYZ_oppose_interaction_repress_IV:0 "Repress the $domestic_faction_paramilitary_name_short$"
+ XYZ_oppose_interaction_repress_IV_desc:0 "We cannot tolerate dissidents and agitators dividing our nation. The acts perpetrated by members of $domestic_faction_paramilitary_name_DEF$ against our government will have serious consequences."
+ 
+ XYZ_oppose_interaction_raid_supporters_IV:0 "Raid $domestic_faction_paramilitary_name_short$ Supporters"
+ XYZ_oppose_interaction_raid_supporters_IV_desc:0 "$domestic_faction_paramilitary_name_DEF_CAP$ has been a thorn in our side for too long. It's time to hunt down key members who are keeping the organization alive and actively conspiring against us."
+ 
+ XYZ_oppose_interaction_destroy_IV:0 "Destroy the $domestic_faction_paramilitary_name_short$"
+ XYZ_oppose_interaction_destroy_IV_desc:0 "The time has come to deal the final blow to $domestic_faction_paramilitary_name_DEF_CAP$ and rid the country of its threat once and for all."
+ 
+ XYZ_oppose_interaction_restore_IV:0 "Restore the $domestic_faction_paramilitary_name_short$"
+ XYZ_oppose_interaction_restore_IV_desc:0 "Perhaps we were too harsh with $domestic_faction_paramilitary_name_DEF$. Although their former members are without any doubt still angry with us, perhaps we can allow the restoration of the organization, develop good relations and focus on the future?"
+ 
+ 
+ ### AMO ###
+ 
+ ### POSITAMOE ###
+ 
+ XYZ_support_interaction_public_speech_AMO:0 "Support a $domestic_faction_military_name_short$ public speech"
+ XYZ_support_interaction_public_speech_AMO_desc:0 "We will support actAMOists from $domestic_faction_military_name_DEF$ to deliver a public speech on their proposals regarding economic and social policies, industrial projects, and agrarian reforms." 
+ 
+ XYZ_support_interaction_joint_act_AMO:0 "Joint Act with the $domestic_faction_military_name_short$"
+ XYZ_support_interaction_joint_act_AMO_desc:0 "We will organize a joint event with $domestic_faction_military_name_DEF$ in which we will announce to the public our support for this faction and our willingness to cooperate with them."
+ 
+ XYZ_support_interaction_grant_privileges_AMO:0 "Grant privileges to the $domestic_faction_military_name_short$"
+ XYZ_support_interaction_grant_privileges_AMO_desc:0 "By pulling some legislative strings, we can improve $domestic_faction_military_name_DEF$'s ability to carry out its political and social actAMOities."
+ 
+ XYZ_support_interaction_fund_AMO:0 "Fund the $domestic_faction_military_name_short$"
+ XYZ_support_interaction_fund_AMO_desc:0 "As our interests align, it would be beneficial to provide $domestic_faction_military_name_DEF$ with funds to increase their influence."
+
+ XYZ_support_interaction_appoint_members_AMO:0 "Appoint $domestic_faction_military_name_short$ Members"
+ XYZ_support_interaction_appoint_members_AMO_desc:0 "$domestic_faction_military_name_DEF_CAP$ has proven to be made up of competent members with plenty of interesting ideas and proposals. We will offer relevant positions within our ministries to the most talented leaders among their ranks."
+
+ XYZ_support_interaction_integrate_AMO:0 "Integrate the $domestic_faction_military_name_short$"
+ XYZ_support_interaction_integrate_AMO_desc:0 "We have been cooperating with $domestic_faction_military_name_DEF$ as different, albeit close, entities so far, and it's time to finally integrate them under our administration."
+
+ XYZ_support_interaction_separate_AMO:0 "Separate the $domestic_faction_military_name_short$"
+ XYZ_support_interaction_separate_AMO_desc:0 "Desperate times call for desperate measures: Selling off this domestic faction to prAMOate actors would give us some much needed capital."
+
+ ### NEGATAMOE ###
+
+ XYZ_oppose_interaction_anti_speech_AMO:0 "Parliament Speech Against the $domestic_faction_military_name_short$"
+ XYZ_oppose_interaction_anti_speech_AMO_desc:0 "We will make a speech in parliament against $domestic_faction_military_name_DEF$ where we will deliver our contempt towards their organization and their anti-government stance."
+
+ XYZ_oppose_interaction_discredit_leaders_AMO:0 "Discredit $domestic_faction_military_name_short$ Leaders"
+ XYZ_oppose_interaction_discredit_leaders_AMO_desc:0 "$domestic_faction_military_name_DEF_CAP$ is spreading dangerous ideas and severe criticism of our government among the population, which is completely unacceptable to us. We must publicly discredit their leaders, thus damaging their public image and popularity."
+ 
+ XYZ_oppose_interaction_anti_rally_AMO:0 "Rally Against the $domestic_faction_military_name_short$"
+ XYZ_oppose_interaction_anti_rally_AMO_desc:0 "We will organize a rally against $domestic_faction_military_name_DEF$ where we will deliver a speech on our contempt towards their organization and their anti-government stance."
+ 
+ XYZ_oppose_interaction_repress_AMO:0 "Repress the $domestic_faction_military_name_short$"
+ XYZ_oppose_interaction_repress_AMO_desc:0 "We cannot tolerate dissidents and agitators dividing our nation. The acts perpetrated by members of $domestic_faction_military_name_DEF$ against our government will have serious consequences."
+ 
+ XYZ_oppose_interaction_raid_supporters_AMO:0 "Raid $domestic_faction_military_name_short$ Supporters"
+ XYZ_oppose_interaction_raid_supporters_AMO_desc:0 "$domestic_faction_military_name_DEF_CAP$ has been a thorn in our side for too long. It's time to hunt down key members who are keeping the organization alive and actively conspiring against us."
+ 
+ XYZ_oppose_interaction_destroy_AMO:0 "Destroy the $domestic_faction_military_name_short$"
+ XYZ_oppose_interaction_destroy_AMO_desc:0 "The time has come to deal the final blow to $domestic_faction_military_name_DEF_CAP$ and rid the country of its threat once and for all."
+ 
+ XYZ_oppose_interaction_restore_AMO:0 "Restore the $domestic_faction_military_name_short$"
+ XYZ_oppose_interaction_restore_AMO_desc:0 "Perhaps we were too harsh with $domestic_faction_military_name_DEF$. Although their former members are without any doubt still angry with us, perhaps we can allow the restoration of the organization, develop good relations and focus on the future?"
+ 
+ 
+ ### CNB ###
+ 
+ ### POSITIVE ###
+ 
+ XYZ_support_interaction_public_speech_CNB:0 "Support a $domestic_faction_news_bureau_name_short$ public speech"
+ XYZ_support_interaction_public_speech_CNB_desc:0 "We will support activists from $domestic_faction_news_bureau_name_DEF$ to deliver a public speech on their proposals regarding economic and social policies, industrial projects, and agrarian reforms." 
+ 
+ XYZ_support_interaction_joint_act_CNB:0 "Joint Act with the $domestic_faction_news_bureau_name_short$"
+ XYZ_support_interaction_joint_act_CNB_desc:0 "We will organize a joint event with $domestic_faction_news_bureau_name_DEF$ in which we will announce to the public our support for this faction and our willingness to cooperate with them."
+ 
+ XYZ_support_interaction_grant_privileges_CNB:0 "Grant Privileges to the $domestic_faction_news_bureau_name_short$"
+ XYZ_support_interaction_grant_privileges_CNB_desc:0 "By pulling some legislative strings, we can improve $domestic_faction_news_bureau_name_DEF$'s ability to carry out its political and social actCNBities."
+ 
+ XYZ_support_interaction_fund_CNB:0 "Fund the $domestic_faction_news_bureau_name_short$"
+ XYZ_support_interaction_fund_CNB_desc:0 "As our interests align, it would be beneficial to provide $domestic_faction_news_bureau_name_DEF$ with funds to increase their influence."
+
+ XYZ_support_interaction_appoint_members_CNB:0 "Appoint $domestic_faction_news_bureau_name_short$ Members"
+ XYZ_support_interaction_appoint_members_CNB_desc:0 "$domestic_faction_news_bureau_name_DEF_CAP$ has proven to be made up of competent members with plenty of interesting ideas and proposals. We will offer relevant positions within our ministries to the most talented leaders among their ranks."
+
+ XYZ_support_interaction_integrate_CNB:0 "Integrate the $domestic_faction_news_bureau_name_short$"
+ XYZ_support_interaction_integrate_CNB_desc:0 "We have been cooperating with $domestic_faction_news_bureau_name_DEF$ as different, albeit close, entities so far, and it's time to finally integrate them under our administration."
+
+ XYZ_support_interaction_separate_CNB:0 "Separate the $domestic_faction_news_bureau_name_short$"
+ XYZ_support_interaction_separate_CNB_desc:0 "Desperate times call for desperate measures: Selling off this domestic faction to private actors would give us some much needed capital."
+
+ ### NEGATIVE ###
+
+ XYZ_oppose_interaction_anti_speech_CNB:0 "Parliament Speech Against the $domestic_faction_news_bureau_name_short$"
+ XYZ_oppose_interaction_anti_speech_CNB_desc:0 "We will make a speech in parliament against $domestic_faction_news_bureau_name_DEF$ where we will deliver our contempt towards their organization and their anti-government stance."
+
+ XYZ_oppose_interaction_discredit_leaders_CNB:0 "Discredit $domestic_faction_news_bureau_name_short$ Leaders"
+ XYZ_oppose_interaction_discredit_leaders_CNB_desc:0 "$domestic_faction_news_bureau_name_DEF_CAP$ is spreading dangerous ideas and severe criticism of our government among the population, which is completely unacceptable to us. We must publicly discredit their leaders, thus damaging their public image and popularity."
+ 
+ XYZ_oppose_interaction_anti_rally_CNB:0 "Rally Against the $domestic_faction_news_bureau_name_short$"
+ XYZ_oppose_interaction_anti_rally_CNB_desc:0 "We will organize a rally against $domestic_faction_news_bureau_name_DEF$ where we will deliver a speech on our contempt towards their organization and their anti-government stance."
+ 
+ XYZ_oppose_interaction_repress_CNB:0 "Repress the $domestic_faction_news_bureau_name_short$"
+ XYZ_oppose_interaction_repress_CNB_desc:0 "We cannot tolerate dissidents and agitators dividing our nation. The acts perpetrated by members of $domestic_faction_news_bureau_name_DEF$ against our government will have serious consequences."
+ 
+ XYZ_oppose_interaction_raid_supporters_CNB:0 "Raid $domestic_faction_news_bureau_name_short$ Supporters"
+ XYZ_oppose_interaction_raid_supporters_CNB_desc:0 "$domestic_faction_news_bureau_name_DEF_CAP$ has been a thorn in our side for too long. It's time to hunt down key members who are keeping the organization alive and actively conspiring against us."
+ 
+ XYZ_oppose_interaction_destroy_CNB:0 "Destroy the $domestic_faction_news_bureau_name_short$"
+ XYZ_oppose_interaction_destroy_CNB_desc:0 "The time has come to deal the final blow to $domestic_faction_news_bureau_name_DEF_CAP$ and rid the country of its threat once and for all."
+ 
+ XYZ_oppose_interaction_restore_CNB:0 "Restore the $domestic_faction_news_bureau_name_short$"
+ XYZ_oppose_interaction_restore_CNB_desc:0 "Perhaps we were too harsh with $domestic_faction_news_bureau_name_DEF$. Although their former members are without any doubt still angry with us, perhaps we can allow the restoration of the organization, develop good relations and focus on the future?"
+ 
+ 
+ 
+ ### EMG ###
+ 
+ ### POSITIVE ###
+ 
+ XYZ_support_interaction_public_speech_EMG:0 "Support a $domestic_faction_merchants_guild_name_short$ public speech"
+ XYZ_support_interaction_public_speech_EMG_desc:0 "We will support activists from $domestic_faction_merchants_guild_name_DEF$ to deliver a public speech on their proposals regarding economic and social policies, industrial projects, and agrarian reforms." 
+ 
+ XYZ_support_interaction_joint_act_EMG:0 "Joint Act with the $domestic_faction_merchants_guild_name_short$"
+ XYZ_support_interaction_joint_act_EMG_desc:0 "We will organize a joint event with $domestic_faction_merchants_guild_name_DEF$ in which we will announce to the public our support for this faction and our willingness to cooperate with them."
+ 
+ XYZ_support_interaction_grant_privileges_EMG:0 "Grant Privileges to the $domestic_faction_merchants_guild_name_short$"
+ XYZ_support_interaction_grant_privileges_EMG_desc:0 "By pulling some legislative strings, we can improve $domestic_faction_merchants_guild_name_DEF$'s ability to carry out its political and social actCNBities."
+ 
+ XYZ_support_interaction_fund_EMG:0 "Fund the $domestic_faction_merchants_guild_name_short$"
+ XYZ_support_interaction_fund_EMG_desc:0 "As our interests align, it would be beneficial to provide $domestic_faction_merchants_guild_name_DEF$ with funds to increase their influence."
+
+ XYZ_support_interaction_appoint_members_EMG:0 "Appoint $domestic_faction_merchants_guild_name_short$ Members"
+ XYZ_support_interaction_appoint_members_EMG_desc:0 "$domestic_faction_merchants_guild_name_DEF_CAP$ has proven to be made up of competent members with plenty of interesting ideas and proposals. We will offer relevant positions within our ministries to the most talented leaders among their ranks."
+
+ XYZ_support_interaction_integrate_EMG:0 "Integrate the $domestic_faction_merchants_guild_name_short$"
+ XYZ_support_interaction_integrate_EMG_desc:0 "We have been cooperating with $domestic_faction_merchants_guild_name_DEF$ as different, albeit close, entities so far, and it's time to finally integrate them under our administration."
+
+ XYZ_support_interaction_separate_EMG:0 "Separate the $domestic_faction_merchants_guild_name_short$"
+ XYZ_support_interaction_separate_EMG_desc:0 "Desperate times call for desperate measures: Selling off this domestic faction to private actors would give us some much needed capital."
+
+ ### NEGATIVE ###
+
+ XYZ_oppose_interaction_anti_speech_EMG:0 "Parliament Speech Against the $domestic_faction_merchants_guild_name_short$"
+ XYZ_oppose_interaction_anti_speech_EMG_desc:0 "We will make a speech in parliament against $domestic_faction_merchants_guild_name_DEF$ where we will deliver our contempt towards their organization and their anti-government stance."
+
+ XYZ_oppose_interaction_discredit_leaders_EMG:0 "Discredit $domestic_faction_merchants_guild_name_short$ Leaders"
+ XYZ_oppose_interaction_discredit_leaders_EMG_desc:0 "$domestic_faction_merchants_guild_name_DEF_CAP$ is spreading dangerous ideas and severe criticism of our government among the population, which is completely unacceptable to us. We must publicly discredit their leaders, thus damaging their public image and popularity."
+ 
+ XYZ_oppose_interaction_anti_rally_EMG:0 "Rally Against the $domestic_faction_merchants_guild_name_short$"
+ XYZ_oppose_interaction_anti_rally_EMG_desc:0 "We will organize a rally against $domestic_faction_merchants_guild_name_DEF$ where we will deliver a speech on our contempt towards their organization and their anti-government stance."
+ 
+ XYZ_oppose_interaction_repress_EMG:0 "Repress the $domestic_faction_merchants_guild_name_short$"
+ XYZ_oppose_interaction_repress_EMG_desc:0 "We cannot tolerate dissidents and agitators dividing our nation. The acts perpetrated by members of $domestic_faction_merchants_guild_name_DEF$ against our government will have serious consequences."
+ 
+ XYZ_oppose_interaction_raid_supporters_EMG:0 "Raid $domestic_faction_merchants_guild_name_short$ Supporters"
+ XYZ_oppose_interaction_raid_supporters_EMG_desc:0 "$domestic_faction_merchants_guild_name_DEF_CAP$ has been a thorn in our side for too long. It's time to hunt down key members who are keeping the organization alive and actively conspiring against us."
+ 
+ XYZ_oppose_interaction_destroy_EMG:0 "Destroy the $domestic_faction_merchants_guild_name_short$"
+ XYZ_oppose_interaction_destroy_EMG_desc:0 "The time has come to deal the final blow to $domestic_faction_merchants_guild_name_DEF_CAP$ and rid the country of its threat once and for all."
+ 
+ XYZ_oppose_interaction_restore_EMG:0 "Restore the $domestic_faction_merchants_guild_name_short$"
+ XYZ_oppose_interaction_restore_EMG_desc:0 "Perhaps we were too harsh with $domestic_faction_merchants_guild_name_DEF$. Although their former members are without any doubt still angry with us, perhaps we can allow the restoration of the organization, develop good relations and focus on the future?"
+ 
+ 
+ 
+ ### BS ###
+ 
+ ### POSITIVE ###
+ 
+ XYZ_support_interaction_public_speech_BS:0 "Support a $domestic_faction_black_syndicate_name_short$ public speech"
+ XYZ_support_interaction_public_speech_BS_desc:0 "We will support activists from $domestic_faction_black_syndicate_name_DEF$ to deliver a public speech on their proposals regarding economic and social policies, industrial projects, and agrarian reforms." 
+ 
+ XYZ_support_interaction_joint_act_BS:0 "Joint Act with the $domestic_faction_black_syndicate_name_short$"
+ XYZ_support_interaction_joint_act_BS_desc:0 "We will organize a joint event with $domestic_faction_black_syndicate_name_DEF$ in which we will announce to the public our support for this faction and our willingness to cooperate with them."
+ 
+ XYZ_support_interaction_grant_privileges_BS:0 "Grant Privileges to the $domestic_faction_black_syndicate_name_short$"
+ XYZ_support_interaction_grant_privileges_BS_desc:0 "By pulling some legislative strings, we can improve $domestic_faction_black_syndicate_name_DEF$'s ability to carry out its political and social actCNBities."
+ 
+ XYZ_support_interaction_fund_BS:0 "Fund the $domestic_faction_black_syndicate_name_short$"
+ XYZ_support_interaction_fund_BS_desc:0 "As our interests align, it would be beneficial to provide $domestic_faction_black_syndicate_name_DEF$ with funds to increase their influence."
+
+ XYZ_support_interaction_appoint_members_BS:0 "Appoint $domestic_faction_black_syndicate_name_short$ Members"
+ XYZ_support_interaction_appoint_members_BS_desc:0 "$domestic_faction_black_syndicate_name_DEF_CAP$ has proven to be made up of competent members with plenty of interesting ideas and proposals. We will offer relevant positions within our ministries to the most talented leaders among their ranks."
+
+ XYZ_support_interaction_integrate_BS:0 "Integrate the $domestic_faction_black_syndicate_name_short$"
+ XYZ_support_interaction_integrate_BS_desc:0 "We have been cooperating with $domestic_faction_black_syndicate_name_DEF$ as different, albeit close, entities so far, and it's time to finally integrate them under our administration.\n... Are you really sure this is a good idea?" #EXTRA
+
+ XYZ_support_interaction_separate_BS:0 "Separate the $domestic_faction_black_syndicate_name_short$"
+ XYZ_support_interaction_separate_BS_desc:0 "Desperate times call for desperate measures: Selling off this domestic faction to private actors would give us some much needed capital."
+
+ ### NEGATIVE ###
+
+ XYZ_oppose_interaction_anti_speech_BS:0 "Parliament Speech Against the $domestic_faction_black_syndicate_name_short$"
+ XYZ_oppose_interaction_anti_speech_BS_desc:0 "We will make a speech in parliament against $domestic_faction_black_syndicate_name_DEF$ where we will deliver our contempt towards their organization and their anti-government stance."
+
+ XYZ_oppose_interaction_discredit_leaders_BS:0 "Discredit $domestic_faction_black_syndicate_name_short$ Leaders"
+ XYZ_oppose_interaction_discredit_leaders_BS_desc:0 "$domestic_faction_black_syndicate_name_DEF_CAP$ is spreading dangerous ideas and severe criticism of our government among the population, which is completely unacceptable to us. We must publicly discredit their leaders, thus damaging their public image and popularity."
+ 
+ XYZ_oppose_interaction_anti_rally_BS:0 "Rally Against the $domestic_faction_black_syndicate_name_short$"
+ XYZ_oppose_interaction_anti_rally_BS_desc:0 "We will organize a rally against $domestic_faction_black_syndicate_name_DEF$ where we will deliver a speech on our contempt towards their organization and their anti-government stance."
+ 
+ XYZ_oppose_interaction_repress_BS:0 "Repress the $domestic_faction_black_syndicate_name_short$"
+ XYZ_oppose_interaction_repress_BS_desc:0 "We cannot tolerate dissidents and agitators dividing our nation. The acts perpetrated by members of $domestic_faction_black_syndicate_name_DEF$ against our government will have serious consequences."
+ 
+ XYZ_oppose_interaction_raid_supporters_BS:0 "Raid $domestic_faction_black_syndicate_name_short$ Supporters"
+ XYZ_oppose_interaction_raid_supporters_BS_desc:0 "$domestic_faction_black_syndicate_name_DEF_CAP$ has been a thorn in our side for too long. It's time to hunt down key members who are keeping the organization alive and actively conspiring against us."
+ 
+ XYZ_oppose_interaction_destroy_BS:0 "Destroy the $domestic_faction_black_syndicate_name_short$"
+ XYZ_oppose_interaction_destroy_BS_desc:0 "The time has come to deal the final blow to $domestic_faction_black_syndicate_name_DEF_CAP$ and rid the country of its threat once and for all."
+ 
+ XYZ_oppose_interaction_restore_BS:0 "Restore the $domestic_faction_black_syndicate_name_short$"
+ XYZ_oppose_interaction_restore_BS_desc:0 "Perhaps we were too harsh with $domestic_faction_black_syndicate_name_DEF$. Although their former members are without any doubt still angry with us, perhaps we can allow the restoration of the organization, develop good relations and focus on the future?"
+ 
+ 
+ 
+ ### POLITICAL BOP DECISIONS ###
+ 
+ 
+ XYZ_ruling_party_interaction_crack_the_party_whip:0 "Crack the Party Whip"
+ XYZ_ruling_party_interaction_crack_the_party_whip_desc:0 "Our members of parliament must sometimes be reminded of their allegiance to the [ROOT.GetRulingParty] and the utmost importance of following [ROOT.GetLeader]'s agenda in votings. Should anyone stray too far from what is deemed appropriate, disciplinary actions must be taken."
+ 
+ XYZ_ruling_party_interaction_lobby_democratic:0 "Lobby for §Y[ROOT.GetRulingParty]§! support"
+ XYZ_ruling_party_interaction_lobby_communism:0 "$XYZ_ruling_party_interaction_lobby_democratic$"
+ XYZ_ruling_party_interaction_lobby_neutrality:0 "$XYZ_ruling_party_interaction_lobby_democratic$"
+ XYZ_ruling_party_interaction_lobby_fascism:0 "$XYZ_ruling_party_interaction_lobby_democratic$"
+ 
+ XYZ_ruling_party_interaction_root_out_incompetence_democratic:0 "Root out incompetence within the §Y[ROOT.GetRulingParty]§!"
+ XYZ_ruling_party_interaction_root_out_incompetence_communism:0 "$XYZ_ruling_party_interaction_root_out_incompetence_democratic$"
+ XYZ_ruling_party_interaction_root_out_incompetence_neutrality:0 "$XYZ_ruling_party_interaction_root_out_incompetence_democratic$"
+ XYZ_ruling_party_interaction_root_out_incompetence_fascism:0 "$XYZ_ruling_party_interaction_root_out_incompetence_democratic$"
+ 
+ XYZ_ruling_party_interaction_bureaucratic_streamlining:0 "Bureaucratic Streamlining"
+ 
+ XYZ_ruling_party_interaction_sway_rival_parliament_members:0 "Sway Rival Parliament Members"
+ XYZ_ruling_party_interaction_sway_rival_parliament_members_tt:0 "§Y[ROOT.GetRulingParty]§! will steal a total of §Y10§! parliament seats from the rival parties."
+ 
+ XYZ_ruling_party_interaction_change_election_frequency:0 "Change Election Frequency"
+
+ XYZ_ruling_party_interaction_electoral_fraud:0 "Manipulate Electoral Ballots"
+ XYZ_election_voting_fraud_flag_tt:0 "Guarantees that §Y[ROOT.GetRulingParty]§! will gain at least §Y50%§! of the parliament seats in the next election, regardless of party popularity."
+ 
+ XYZ_ruling_party_interaction_ban_elections:0 "Ban Elections"
+ 
+ XYZ_ruling_party_interaction_allow_elections:0 "Allow Elections"
+ 
+ XYZ_ruling_party_interaction_move_capital:0 "Move Capital Location"
+ 
+ bop_move_capital_decision_make_visible_flag_tt:0 "Enables an §Yon-map decision§! to move the location of the [ROOT.GetAdjective] capital to any fully controlled core state."
+ 
+ #unused, use the vanilla decision categories 'fascism/communism on the rise' for time being...
+ #XYZ_ruling_party_interaction_coup_de_etat:0 "§Y[ROOT.GetRulingParty]§! Coup d'état"
+ #XYZ_ruling_party_interaction_coup_de_etat_desc:0 "[ROOT.GetRulingParty] will organize a massive march on [ROOT.capital.GetCapitalVictoryPointName], spearheaded by [ROOT.GetLeader] [ROOT.GetLeader.GetHerselfHimself]."
+ 
+ XYZ_ruling_party_interaction_smear_campaign_democratic:0 "Democratic Smear Campaign"
+ XYZ_ruling_party_interaction_smear_campaign_communism:0 "Communist Smear Campaign"
+ XYZ_ruling_party_interaction_smear_campaign_fascism:0 "Fascist Smear Campaign"
+ XYZ_ruling_party_interaction_smear_campaign_neutrality:0 "Non-Aligned Smear Campaign"
+ 
+ XYZ_ruling_party_interaction_bribe_mps_democratic:0 "Bribe Democratic Members of Parliament"
+ XYZ_ruling_party_interaction_bribe_mps_communism:0 "Bribe Communist Members of Parliament"
+ XYZ_ruling_party_interaction_bribe_mps_fascism:0 "Bribe Fascist Members of Parliament"
+ XYZ_ruling_party_interaction_bribe_mps_neutrality:0 "Bribe Non-Aligned Members of Parliament"
+ 
+ XYZ_ruling_party_interaction_bribe_mps_tt:0 "§Y10§! members of parliament will defect from this party and join any of the rival parties."
+ 
+ XYZ_ruling_party_interaction_ban_party_tt:0 "§L(Stability cost is equal to this party's current popularity.)§!"
+ 
+ XYZ_ruling_party_interaction_ban_party_democratic:0 "Ban the §Y[ROOT.GetDemocraticParty]§!"
+ XYZ_ruling_party_interaction_ban_party_democratic_tt1:0 "This party will cease to exist and its parliament seats will be distributed equally among the other parties."
+ 
+ XYZ_ruling_party_interaction_ban_party_communism:0 "Ban the §Y[ROOT.GetCommunistParty]§!"
+ XYZ_ruling_party_interaction_ban_party_communism_tt1:0 "This party will cease to exist and its parliament seats will be distributed equally among the other parties."
+ 
+ XYZ_ruling_party_interaction_ban_party_fascism:0 "Ban the §Y[ROOT.GetFascistParty]§!"
+ XYZ_ruling_party_interaction_ban_party_fascism_tt1:0 "This party will cease to exist and its parliament seats will be distributed equally among the other parties."
+ 
+ XYZ_ruling_party_interaction_ban_party_neutrality:0 "Ban the §Y[ROOT.GetNeutralParty]§!"
+ XYZ_ruling_party_interaction_ban_party_neutrality_tt1:0 "This party will cease to exist and its parliament seats will be distributed equally among the other parties."
+ 
+ 
+ player_is_within_democratic_preferred_area_scripted_trigger_tt:0 "Must be in the democratic party's preferred area on the §Ypolitical compass§!."
+ player_is_within_neutrality_preferred_area_scripted_trigger_tt:0 "Must be in the non-aligned party's preferred area on the §Ypolitical compass§!."
+ player_is_within_fascism_preferred_area_scripted_trigger_tt:0 "Must be in the fascist party's preferred area on the §Ypolitical compass§!."
+ player_is_within_communism_preferred_area_scripted_trigger_tt:0 "Must be in the communist party's preferred area on the §Ypolitical compass§!."
+ 
+ 
+ XYZ_ruling_party_interaction_joint_campaign_democratic_communism:0 "Joint Communist Campaign"
+ XYZ_ruling_party_interaction_joint_campaign_democratic_fascism:0 "Joint Fascist Campaign"
+ XYZ_ruling_party_interaction_joint_campaign_democratic_neutrality:0 "Joint Non-Aligned Campaign"
+ 
+ XYZ_ruling_party_interaction_joint_campaign_neutrality_democratic:0 "Joint Democratic Campaign"
+ XYZ_ruling_party_interaction_joint_campaign_neutrality_communism:0 "Joint Communist Campaign"
+ XYZ_ruling_party_interaction_joint_campaign_neutrality_fascism:0 "Joint Fascist Campaign"
+ 
+ XYZ_ruling_party_interaction_joint_campaign_fascism_democratic:0 "Joint Democratic Campaign"
+ XYZ_ruling_party_interaction_joint_campaign_fascism_communism:0 "Joint Communist Campaign"
+ XYZ_ruling_party_interaction_joint_campaign_fascism_neutrality:0 "Joint Non-Aligned Campaign"
+ 
+ XYZ_ruling_party_interaction_joint_campaign_communism_democratic:0 "Joint Democratic Campaign"
+ XYZ_ruling_party_interaction_joint_campaign_communism_fascism:0 "Joint Fascist Campaign"
+ XYZ_ruling_party_interaction_joint_campaign_communism_neutrality:0 "Joint Non-Aligned Campaign"
+ 
+ 

@@ -1,0 +1,68 @@
+﻿l_english:
+
+
+ coring_decision_in_progress_flag:0 " A §YState Coring Decision§! is in progress."
+ 
+ OG_state_claiming_in_progress_flag:0 " Already claiming a border state"
+ 
+ OG_nuclear_sanitation_work_in_progress_flag:0 "Nuclear sanitation work in progress"
+ 
+ OG_state_just_got_nuked_flag:0 "State just got nuked!"
+ 
+ OG_expand_company_decision_ongoing_flag:0 "Company expansion project in progress"
+ 
+ OG_state_recently_claimed_flag:0 "State claimed for longer than 90 days"
+ 
+ OG_recent_border_conflict_flag:0 "Recent border conflict has happened in state"
+ 
+ OG_gunboat_diplomacy_state_flag:0 ""
+ 
+ 
+ 
+ 
+ formable_france_flag:0 "France has been formed"
+ formable_germany_flag:0 "Germany has been formed"
+ formable_britain_flag:0 "Britain has been formed"
+ formable_russia_flag:0 "Russia has been formed"
+ formable_china_flag:0 "China has been formed"
+ formable_japan_flag:0 "Japan has been formed"
+ formable_norden_flag:0 "Norden has been formed"
+ formable_italy_flag:0 "Italy has been formed"
+ formable_usa_flag:0 "United States of America has been formed"
+ 
+ 
+ 
+ 
+ 
+ 
+ XYZ_election_voting_fraud_achievement_flag:0 "Has won an election through illicit means."
+ 
+ 
+ XYZ_integrated_flag_WULT:0 "Has integrated WULT"
+ XYZ_integrated_flag_AL:0 "Has integrated AL"
+ XYZ_integrated_flag_ACS:0 "Has integrated ACS"
+ XYZ_integrated_flag_SRC:0 "Has integrated SRS"
+ XYZ_integrated_flag_IV:0 "Has integrated IV"
+ XYZ_integrated_flag_AMO:0 "Has integrated AMO"
+ XYZ_integrated_flag_CNB:0 "Has integrated CNB"
+ XYZ_integrated_flag_EMG:0 "Has integrated EMG"
+ XYZ_integrated_flag_BS:0 "Has integrated BS"
+ 
+ domestic_faction_WULT_destroyed_flag:0 "Has destroyed WULT"
+ domestic_faction_AL_destroyed_flag:0 "Has destroyed AL"
+ domestic_faction_ACS_destroyed_flag:0 "Has destroyed ACS"
+ domestic_faction_SRC_destroyed_flag:0 "Has destroyed SRS"
+ domestic_faction_IV_destroyed_flag:0 "Has destroyed IV"
+ domestic_faction_AMO_destroyed_flag:0 "Has destroyed AMO"
+ domestic_faction_CNB_destroyed_flag:0 "Has destroyed CNB"
+ domestic_faction_EMG_destroyed_flag:0 "Has destroyed EMG"
+ domestic_faction_BS_destroyed_flag:0 "Has destroyed BS"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
