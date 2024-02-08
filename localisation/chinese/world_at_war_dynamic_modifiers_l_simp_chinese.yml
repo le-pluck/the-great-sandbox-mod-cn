@@ -1,0 +1,49 @@
+﻿l_simp_chinese:
+
+ OG_nuclear_devestation_1_state_modifier:0 "§8Moderate§! Nuclear Devestation"
+ OG_nuclear_devestation_1_state_modifier_desc:0 "Now I am become Death, the destroyer of worlds."
+
+ OG_nuclear_devestation_2_state_modifier:0 "§OSevere§! Nuclear Devestation"
+ OG_nuclear_devestation_2_state_modifier_desc:0 "Now I am become Death, the destroyer of worlds."
+
+ OG_nuclear_devestation_3_state_modifier:0 "§RExtreme§! Nuclear Devestation"
+ OG_nuclear_devestation_3_state_modifier_desc:0 "Now I am become Death, the destroyer of worlds."
+
+ OG_nuclear_devestation_4_state_modifier:0 "§7Catastrophic§! Nuclear Devestation"
+ OG_nuclear_devestation_4_state_modifier_desc:0 "Now I am become Death, the destroyer of worlds."
+
+ OG_nuclear_devestation_5_state_modifier:0 "§4Nuclear Winter§!"
+ OG_nuclear_devestation_5_state_modifier_desc:0 "Heat in the center, destruction preventer. If you release one, you release them all."
+ 
+ 
+ 
+ # Scripted loc not allowed here.
+ domestic_factions_workers_union_dynamic_modifier:0 "Workers' Union of Labor and Trade"
+ domestic_factions_aristocratic_league_dynamic_modifier:0 "Aristocratic League"
+ domestic_factions_academic_council_dynamic_modifier:0 "Academic Council of Sciences"
+ domestic_factions_religious_community_dynamic_modifier:0 "State Religious Society"
+ domestic_factions_iron_vanguard_dynamic_modifier:0 "Iron Vanguard"
+ domestic_factions_military_association_dynamic_modifier:0 "Association of Military Officers"
+ domestic_factions_news_bureau_dynamic_modifier:0 "Central News Bureau"
+ domestic_factions_merchants_guild_dynamic_modifier:0 "Entrepreneurs' Mercantile Guild"
+ domestic_factions_black_syndicate_dynamic_modifier:0 "Black Syndicate"
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
